@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Note: generated data (.csv) and retail.db are committed on purpose so the
+# repo is browsable without running the generators. Delete the lines below if
+# you'd rather keep the repo lean and regenerate locally.
+# *.csv
+# *.db

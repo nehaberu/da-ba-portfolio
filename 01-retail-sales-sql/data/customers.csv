@@ -1,0 +1,4001 @@
+customer_id,signup_date,country,acquisition_channel
+1,2023-09-05,Germany,Email
+2,2023-10-27,Poland,Email
+3,2024-01-19,Germany,Paid Search
+4,2023-10-30,Italy,Paid Search
+5,2024-02-16,Germany,Organic
+6,2024-04-20,Netherlands,Paid Search
+7,2023-11-02,France,Organic
+8,2023-06-12,Germany,Organic
+9,2023-12-30,Germany,Email
+10,2024-05-30,Germany,Paid Search
+11,2023-07-01,Spain,Email
+12,2023-11-16,Spain,Paid Search
+13,2024-05-19,Germany,Organic
+14,2023-09-02,France,Paid Search
+15,2024-01-07,Germany,Organic
+16,2023-08-22,Spain,Social
+17,2023-06-14,Italy,Referral
+18,2023-07-09,Poland,Email
+19,2023-12-15,Poland,Email
+20,2023-11-09,Germany,Email
+21,2024-01-14,Germany,Email
+22,2023-06-27,Poland,Social
+23,2024-02-20,Germany,Social
+24,2023-06-13,Germany,Paid Search
+25,2024-01-12,Germany,Organic
+26,2023-12-09,Spain,Social
+27,2023-04-15,Netherlands,Social
+28,2024-02-13,Austria,Organic
+29,2023-09-24,France,Referral
+30,2024-07-24,Germany,Organic
+31,2023-08-19,France,Social
+32,2024-06-04,Spain,Referral
+33,2023-06-25,Germany,Paid Search
+34,2023-03-22,Austria,Referral
+35,2024-04-05,UK,Email
+36,2023-03-07,Spain,Social
+37,2023-05-06,Italy,Referral
+38,2024-04-26,France,Social
+39,2023-09-18,Spain,Paid Search
+40,2023-11-20,France,Social
+41,2024-03-07,Italy,Paid Search
+42,2024-02-19,Italy,Paid Search
+43,2023-08-25,UK,Organic
+44,2023-02-24,Germany,Paid Search
+45,2023-06-09,Austria,Email
+46,2023-07-08,Austria,Referral
+47,2024-04-24,Netherlands,Referral
+48,2024-05-30,Austria,Organic
+49,2023-04-10,UK,Social
+50,2023-09-04,France,Social
+51,2024-07-18,France,Organic
+52,2023-09-14,Germany,Social
+53,2024-01-27,UK,Paid Search
+54,2024-01-18,Netherlands,Referral
+55,2024-01-03,Germany,Organic
+56,2023-08-22,Germany,Email
+57,2023-04-29,Spain,Email
+58,2023-12-04,Italy,Social
+59,2024-02-15,Austria,Organic
+60,2023-03-17,Germany,Organic
+61,2024-08-17,Italy,Referral
+62,2023-01-25,Germany,Organic
+63,2023-02-09,Germany,Organic
+64,2023-04-26,Spain,Referral
+65,2023-07-27,France,Email
+66,2023-10-16,Italy,Social
+67,2023-09-21,Germany,Organic
+68,2023-10-23,Germany,Paid Search
+69,2023-07-12,UK,Email
+70,2024-06-26,Germany,Paid Search
+71,2023-07-26,Germany,Organic
+72,2023-09-10,Germany,Organic
+73,2023-04-29,Germany,Social
+74,2023-09-25,Spain,Organic
+75,2024-04-23,Germany,Email
+76,2024-06-29,Netherlands,Organic
+77,2024-01-28,UK,Organic
+78,2023-11-06,UK,Referral
+79,2023-08-31,UK,Referral
+80,2024-02-02,Netherlands,Social
+81,2023-07-20,Italy,Referral
+82,2024-01-08,Germany,Organic
+83,2023-10-28,Italy,Paid Search
+84,2023-11-27,Germany,Organic
+85,2024-04-29,UK,Paid Search
+86,2023-04-15,UK,Email
+87,2023-11-23,Germany,Email
+88,2023-10-02,Germany,Organic
+89,2024-01-04,Germany,Paid Search
+90,2023-12-25,Germany,Referral
+91,2023-11-29,UK,Social
+92,2024-04-06,Germany,Organic
+93,2024-06-25,Italy,Paid Search
+94,2023-09-16,Poland,Paid Search
+95,2023-07-09,Germany,Paid Search
+96,2023-03-04,Germany,Paid Search
+97,2024-07-26,France,Paid Search
+98,2023-05-18,Poland,Paid Search
+99,2023-08-31,France,Paid Search
+100,2023-10-03,Germany,Organic
+101,2023-06-20,Austria,Organic
+102,2023-09-12,UK,Paid Search
+103,2024-06-22,France,Email
+104,2023-01-19,Poland,Email
+105,2023-07-10,Poland,Organic
+106,2023-07-05,UK,Paid Search
+107,2023-12-29,Germany,Social
+108,2023-04-23,UK,Paid Search
+109,2023-07-05,Germany,Social
+110,2023-07-03,France,Referral
+111,2023-10-06,Germany,Organic
+112,2023-08-10,Netherlands,Paid Search
+113,2023-06-01,Spain,Paid Search
+114,2024-03-07,Austria,Social
+115,2024-05-04,Italy,Organic
+116,2024-01-13,Germany,Social
+117,2024-06-09,Germany,Organic
+118,2023-06-05,UK,Social
+119,2024-01-15,Germany,Social
+120,2023-07-08,Germany,Paid Search
+121,2024-02-16,Spain,Referral
+122,2023-10-28,France,Email
+123,2024-01-02,Germany,Paid Search
+124,2023-05-06,UK,Referral
+125,2024-03-22,Austria,Email
+126,2024-04-30,Netherlands,Organic
+127,2023-01-25,Germany,Social
+128,2023-03-09,UK,Social
+129,2024-02-08,Poland,Social
+130,2023-08-08,Germany,Referral
+131,2023-10-04,Netherlands,Paid Search
+132,2023-03-24,Spain,Organic
+133,2023-11-03,Spain,Paid Search
+134,2023-12-23,Germany,Email
+135,2024-02-27,Poland,Paid Search
+136,2024-06-30,Germany,Organic
+137,2023-03-06,Germany,Paid Search
+138,2023-08-16,Germany,Social
+139,2023-11-26,France,Organic
+140,2023-11-26,Germany,Paid Search
+141,2023-11-18,Spain,Organic
+142,2023-08-07,Italy,Paid Search
+143,2023-07-25,Germany,Organic
+144,2023-07-28,Italy,Organic
+145,2023-03-26,Austria,Social
+146,2023-07-09,Germany,Organic
+147,2023-10-05,Spain,Organic
+148,2024-05-28,Austria,Social
+149,2024-04-10,Italy,Organic
+150,2024-06-11,UK,Organic
+151,2023-06-01,Poland,Paid Search
+152,2023-09-18,Spain,Paid Search
+153,2024-05-18,Germany,Paid Search
+154,2024-07-31,Germany,Referral
+155,2023-10-25,UK,Paid Search
+156,2023-05-05,France,Social
+157,2023-08-30,Germany,Referral
+158,2023-09-26,Germany,Paid Search
+159,2023-12-15,Italy,Email
+160,2024-05-23,Spain,Paid Search
+161,2023-09-16,Germany,Social
+162,2024-06-23,Germany,Referral
+163,2024-06-20,Germany,Organic
+164,2024-05-29,Germany,Referral
+165,2023-06-05,Netherlands,Paid Search
+166,2024-02-18,Germany,Social
+167,2023-04-06,Austria,Paid Search
+168,2023-05-05,Germany,Organic
+169,2024-04-27,Germany,Organic
+170,2023-05-31,Italy,Referral
+171,2023-05-08,France,Social
+172,2024-05-09,France,Email
+173,2023-09-20,Germany,Organic
+174,2023-06-09,Netherlands,Organic
+175,2023-07-11,France,Paid Search
+176,2024-05-09,Italy,Organic
+177,2023-02-20,Netherlands,Paid Search
+178,2024-06-17,Poland,Referral
+179,2024-05-28,Netherlands,Email
+180,2023-09-10,Spain,Paid Search
+181,2023-06-09,Netherlands,Paid Search
+182,2023-04-14,France,Social
+183,2024-07-31,Netherlands,Social
+184,2023-05-19,Netherlands,Social
+185,2023-04-16,Germany,Paid Search
+186,2023-11-18,Netherlands,Organic
+187,2024-07-25,Germany,Organic
+188,2024-06-06,UK,Referral
+189,2023-06-02,Germany,Social
+190,2023-08-18,Germany,Referral
+191,2023-03-07,Germany,Paid Search
+192,2023-04-28,Germany,Paid Search
+193,2023-12-22,Germany,Paid Search
+194,2023-11-13,Germany,Referral
+195,2023-02-21,UK,Organic
+196,2023-11-10,France,Social
+197,2023-05-13,Austria,Organic
+198,2023-05-19,Italy,Organic
+199,2023-10-05,Germany,Organic
+200,2023-07-22,France,Paid Search
+201,2024-07-23,France,Email
+202,2023-10-29,France,Referral
+203,2023-05-23,UK,Social
+204,2024-03-25,Netherlands,Paid Search
+205,2023-09-16,Netherlands,Email
+206,2024-01-24,France,Organic
+207,2023-07-21,Spain,Email
+208,2023-12-21,Germany,Email
+209,2023-02-27,Italy,Paid Search
+210,2024-01-21,Austria,Organic
+211,2023-07-16,Germany,Organic
+212,2023-04-24,Spain,Paid Search
+213,2023-11-27,Italy,Referral
+214,2023-04-08,UK,Social
+215,2023-08-08,Germany,Paid Search
+216,2023-12-31,Spain,Paid Search
+217,2024-03-21,France,Email
+218,2023-12-21,Germany,Paid Search
+219,2023-05-29,Netherlands,Organic
+220,2023-09-04,France,Social
+221,2023-02-26,Germany,Paid Search
+222,2023-09-02,Austria,Paid Search
+223,2023-08-26,Germany,Paid Search
+224,2024-06-06,UK,Organic
+225,2023-09-15,Netherlands,Referral
+226,2023-06-03,Germany,Email
+227,2023-12-15,Spain,Referral
+228,2023-08-06,Netherlands,Referral
+229,2024-01-16,UK,Paid Search
+230,2023-09-13,UK,Paid Search
+231,2023-11-14,Austria,Social
+232,2023-08-15,Poland,Organic
+233,2023-10-04,Germany,Referral
+234,2023-09-06,France,Organic
+235,2024-01-25,UK,Paid Search
+236,2023-03-24,Poland,Social
+237,2023-09-17,Italy,Referral
+238,2023-10-11,France,Social
+239,2024-07-03,Poland,Social
+240,2024-03-04,France,Paid Search
+241,2023-08-04,Germany,Social
+242,2024-07-23,UK,Social
+243,2023-11-01,France,Paid Search
+244,2024-03-04,Netherlands,Email
+245,2024-03-10,France,Organic
+246,2024-07-28,Italy,Paid Search
+247,2023-11-13,Austria,Referral
+248,2024-05-21,Germany,Paid Search
+249,2023-06-18,UK,Social
+250,2024-05-09,Spain,Paid Search
+251,2023-12-30,Germany,Referral
+252,2023-11-16,Italy,Organic
+253,2023-08-07,UK,Organic
+254,2024-06-08,Germany,Email
+255,2023-12-01,Italy,Social
+256,2023-11-22,France,Paid Search
+257,2023-10-10,Germany,Paid Search
+258,2023-02-06,Germany,Paid Search
+259,2024-04-25,Spain,Referral
+260,2023-05-18,Poland,Social
+261,2024-05-10,France,Referral
+262,2024-04-05,Germany,Referral
+263,2023-11-13,Germany,Paid Search
+264,2023-04-24,Netherlands,Social
+265,2023-04-07,France,Social
+266,2023-11-10,France,Email
+267,2023-10-16,Germany,Social
+268,2023-03-13,France,Organic
+269,2023-10-06,Netherlands,Referral
+270,2023-03-29,UK,Social
+271,2023-07-01,Germany,Email
+272,2023-11-22,UK,Paid Search
+273,2023-03-15,France,Paid Search
+274,2023-05-22,UK,Social
+275,2023-08-13,Germany,Email
+276,2024-01-02,Germany,Organic
+277,2023-10-04,UK,Paid Search
+278,2023-04-30,Germany,Email
+279,2023-09-27,Netherlands,Referral
+280,2023-11-29,France,Organic
+281,2023-05-30,Germany,Organic
+282,2023-10-05,Netherlands,Paid Search
+283,2024-07-05,France,Organic
+284,2023-05-22,Germany,Organic
+285,2024-03-07,Italy,Paid Search
+286,2024-08-15,France,Social
+287,2023-06-04,Poland,Paid Search
+288,2023-05-30,Germany,Paid Search
+289,2024-04-09,Poland,Referral
+290,2023-06-22,Italy,Paid Search
+291,2023-05-02,Germany,Email
+292,2023-05-29,UK,Organic
+293,2024-06-04,Netherlands,Email
+294,2023-04-12,UK,Email
+295,2023-03-17,France,Organic
+296,2023-09-09,Austria,Social
+297,2024-06-13,Spain,Social
+298,2023-12-11,Austria,Paid Search
+299,2023-11-24,Italy,Email
+300,2024-08-07,Italy,Paid Search
+301,2023-06-30,Spain,Paid Search
+302,2023-12-12,Netherlands,Referral
+303,2023-05-23,Poland,Organic
+304,2023-10-20,Netherlands,Organic
+305,2024-01-11,Germany,Organic
+306,2023-11-09,UK,Referral
+307,2023-11-21,Germany,Organic
+308,2023-06-08,Austria,Organic
+309,2023-05-08,Netherlands,Social
+310,2023-05-15,UK,Email
+311,2024-07-18,Germany,Paid Search
+312,2023-07-23,UK,Referral
+313,2023-06-18,France,Organic
+314,2024-03-02,Netherlands,Social
+315,2023-07-19,UK,Social
+316,2023-07-26,UK,Paid Search
+317,2023-08-20,Germany,Email
+318,2023-10-31,UK,Social
+319,2024-02-17,France,Organic
+320,2023-06-05,Italy,Organic
+321,2024-07-03,Poland,Organic
+322,2023-12-21,Spain,Email
+323,2023-07-22,Germany,Organic
+324,2024-05-30,Germany,Referral
+325,2024-04-09,Poland,Organic
+326,2024-03-01,Austria,Referral
+327,2024-10-17,Germany,Email
+328,2024-04-12,Netherlands,Organic
+329,2023-12-06,France,Organic
+330,2024-03-25,Germany,Email
+331,2024-05-02,Austria,Organic
+332,2023-02-22,Poland,Organic
+333,2023-02-26,Austria,Email
+334,2023-05-03,Germany,Referral
+335,2024-02-29,UK,Email
+336,2023-08-01,Poland,Email
+337,2023-03-23,Netherlands,Social
+338,2023-07-11,France,Email
+339,2023-11-12,UK,Paid Search
+340,2024-02-06,Germany,Email
+341,2023-06-20,Netherlands,Social
+342,2023-12-15,Italy,Social
+343,2023-12-09,Germany,Referral
+344,2024-07-28,Germany,Paid Search
+345,2023-11-06,UK,Social
+346,2024-11-30,UK,Paid Search
+347,2023-09-07,France,Organic
+348,2023-08-09,Germany,Paid Search
+349,2024-02-11,Spain,Referral
+350,2024-05-22,Germany,Paid Search
+351,2023-05-01,Netherlands,Social
+352,2023-06-09,UK,Social
+353,2023-11-07,France,Email
+354,2024-02-07,UK,Email
+355,2023-04-17,Netherlands,Organic
+356,2023-11-04,UK,Paid Search
+357,2024-06-28,UK,Social
+358,2023-11-15,France,Organic
+359,2023-12-18,France,Paid Search
+360,2024-10-21,UK,Paid Search
+361,2024-01-15,France,Organic
+362,2024-02-25,France,Referral
+363,2024-06-04,Germany,Referral
+364,2024-01-28,Spain,Social
+365,2023-09-14,Germany,Organic
+366,2024-02-19,Poland,Referral
+367,2023-12-03,Netherlands,Social
+368,2023-10-16,Germany,Referral
+369,2024-03-12,Netherlands,Organic
+370,2023-02-12,France,Organic
+371,2023-11-15,Poland,Social
+372,2023-11-28,Poland,Referral
+373,2023-11-03,Italy,Organic
+374,2023-09-04,UK,Paid Search
+375,2023-08-31,Poland,Social
+376,2023-06-19,Netherlands,Referral
+377,2023-12-17,Poland,Email
+378,2023-09-02,Germany,Referral
+379,2023-02-12,Poland,Social
+380,2024-04-03,Netherlands,Email
+381,2024-03-08,Germany,Paid Search
+382,2023-11-23,Austria,Organic
+383,2023-08-01,Netherlands,Social
+384,2024-01-09,Poland,Social
+385,2023-10-20,Germany,Paid Search
+386,2023-05-25,UK,Organic
+387,2023-08-06,Spain,Email
+388,2023-05-20,Germany,Email
+389,2023-09-05,Spain,Paid Search
+390,2023-07-01,Netherlands,Referral
+391,2024-05-22,Germany,Paid Search
+392,2023-09-10,Netherlands,Organic
+393,2023-03-13,Germany,Organic
+394,2023-12-10,Italy,Paid Search
+395,2024-01-25,Italy,Organic
+396,2024-03-26,UK,Social
+397,2023-05-31,UK,Email
+398,2023-11-11,France,Paid Search
+399,2023-03-24,France,Email
+400,2023-02-21,Poland,Referral
+401,2023-12-17,Germany,Paid Search
+402,2023-08-28,France,Organic
+403,2024-07-23,Germany,Organic
+404,2023-06-25,Netherlands,Social
+405,2023-11-07,Italy,Paid Search
+406,2023-12-25,Germany,Social
+407,2023-06-21,Germany,Social
+408,2023-11-12,Germany,Social
+409,2023-07-27,Germany,Organic
+410,2024-02-13,France,Organic
+411,2023-10-11,Spain,Paid Search
+412,2023-06-18,UK,Email
+413,2023-08-01,Germany,Social
+414,2023-06-28,Netherlands,Social
+415,2023-06-18,Italy,Social
+416,2023-10-08,France,Paid Search
+417,2023-09-13,Germany,Organic
+418,2023-06-18,Spain,Organic
+419,2024-01-01,Germany,Organic
+420,2023-10-03,Italy,Organic
+421,2023-08-10,Italy,Paid Search
+422,2023-08-12,Poland,Email
+423,2023-06-24,Germany,Organic
+424,2024-05-25,Germany,Organic
+425,2024-06-25,Poland,Organic
+426,2024-04-11,France,Organic
+427,2024-07-24,France,Organic
+428,2023-09-10,UK,Organic
+429,2024-01-09,Germany,Organic
+430,2023-02-11,Netherlands,Referral
+431,2023-12-22,Austria,Paid Search
+432,2023-10-17,Netherlands,Organic
+433,2023-03-03,France,Paid Search
+434,2023-09-02,Austria,Organic
+435,2024-08-12,Netherlands,Social
+436,2023-06-03,Germany,Paid Search
+437,2024-04-09,Netherlands,Email
+438,2023-06-05,Germany,Referral
+439,2024-05-29,Germany,Social
+440,2023-10-18,Netherlands,Organic
+441,2023-07-07,Germany,Paid Search
+442,2024-08-04,Germany,Paid Search
+443,2023-06-04,Netherlands,Email
+444,2023-10-25,Germany,Organic
+445,2024-03-18,UK,Social
+446,2023-03-28,Germany,Paid Search
+447,2023-02-19,Netherlands,Paid Search
+448,2023-11-10,Poland,Paid Search
+449,2023-09-09,Germany,Paid Search
+450,2023-07-03,Spain,Social
+451,2024-04-30,Germany,Social
+452,2024-06-28,Germany,Organic
+453,2023-11-29,France,Organic
+454,2024-03-02,Germany,Email
+455,2023-11-08,Germany,Paid Search
+456,2024-01-28,Spain,Social
+457,2023-09-05,Italy,Paid Search
+458,2023-11-18,Austria,Social
+459,2023-06-09,Poland,Social
+460,2023-11-03,France,Organic
+461,2023-04-08,Germany,Paid Search
+462,2023-09-03,Germany,Paid Search
+463,2023-04-29,UK,Organic
+464,2023-07-07,Italy,Social
+465,2024-01-26,Germany,Organic
+466,2023-12-08,Germany,Organic
+467,2023-12-13,France,Email
+468,2023-01-26,Poland,Email
+469,2023-02-09,France,Organic
+470,2023-09-24,Spain,Social
+471,2023-09-10,France,Organic
+472,2024-04-15,France,Social
+473,2023-06-15,France,Paid Search
+474,2023-03-26,Spain,Email
+475,2024-02-13,Spain,Paid Search
+476,2023-09-14,France,Paid Search
+477,2024-11-19,Germany,Email
+478,2024-07-27,Germany,Organic
+479,2023-10-23,Germany,Organic
+480,2023-08-03,Germany,Paid Search
+481,2024-02-25,Germany,Social
+482,2023-10-11,Netherlands,Organic
+483,2023-07-15,Italy,Social
+484,2024-08-05,Spain,Paid Search
+485,2023-04-20,Spain,Social
+486,2024-04-21,Austria,Referral
+487,2023-11-03,Austria,Paid Search
+488,2023-06-18,Germany,Social
+489,2023-08-05,Germany,Paid Search
+490,2023-12-20,Germany,Organic
+491,2024-02-21,Poland,Email
+492,2024-02-03,Germany,Email
+493,2023-09-18,France,Email
+494,2023-08-18,UK,Referral
+495,2023-11-26,Netherlands,Paid Search
+496,2023-03-22,UK,Social
+497,2023-12-25,Spain,Organic
+498,2023-04-27,UK,Referral
+499,2023-06-20,Italy,Social
+500,2024-06-26,Germany,Organic
+501,2023-07-23,Italy,Email
+502,2023-09-21,UK,Social
+503,2023-06-05,Germany,Referral
+504,2023-06-30,Austria,Email
+505,2024-03-07,Poland,Email
+506,2023-09-25,Italy,Paid Search
+507,2023-06-17,Poland,Paid Search
+508,2024-01-08,France,Email
+509,2024-04-01,Germany,Organic
+510,2023-04-28,Germany,Organic
+511,2023-09-10,Poland,Referral
+512,2024-07-09,Italy,Referral
+513,2023-10-06,Austria,Referral
+514,2023-03-26,Italy,Organic
+515,2023-06-11,Netherlands,Organic
+516,2024-01-25,Germany,Referral
+517,2023-02-18,Germany,Organic
+518,2024-07-20,France,Paid Search
+519,2024-04-22,Spain,Paid Search
+520,2024-02-22,Germany,Email
+521,2023-06-29,Poland,Paid Search
+522,2023-10-16,Netherlands,Organic
+523,2023-12-29,Germany,Paid Search
+524,2023-07-30,Poland,Organic
+525,2024-06-16,UK,Social
+526,2023-09-01,Spain,Social
+527,2023-12-04,France,Social
+528,2023-09-11,France,Paid Search
+529,2023-06-24,Germany,Organic
+530,2024-04-22,UK,Organic
+531,2023-12-03,Spain,Referral
+532,2023-06-04,Austria,Paid Search
+533,2023-11-30,Poland,Paid Search
+534,2024-08-29,Germany,Paid Search
+535,2023-07-05,Austria,Referral
+536,2024-01-10,Germany,Email
+537,2023-10-03,Germany,Organic
+538,2024-03-04,Spain,Social
+539,2024-01-10,Poland,Paid Search
+540,2023-09-28,Austria,Email
+541,2023-07-29,Italy,Referral
+542,2023-10-09,Germany,Social
+543,2024-10-16,Germany,Email
+544,2023-05-03,Germany,Paid Search
+545,2024-05-07,UK,Paid Search
+546,2023-11-20,UK,Social
+547,2023-11-09,Germany,Social
+548,2023-07-16,France,Organic
+549,2023-06-19,UK,Paid Search
+550,2023-09-14,Spain,Organic
+551,2023-06-14,France,Organic
+552,2023-07-05,Germany,Email
+553,2024-03-05,Netherlands,Organic
+554,2023-05-18,Netherlands,Email
+555,2024-05-18,Germany,Paid Search
+556,2023-06-10,Germany,Social
+557,2023-04-02,Austria,Referral
+558,2023-03-21,Spain,Email
+559,2023-03-28,Germany,Email
+560,2023-04-15,UK,Organic
+561,2024-01-08,UK,Paid Search
+562,2024-10-23,Germany,Social
+563,2023-09-09,Germany,Email
+564,2024-08-07,Austria,Email
+565,2023-09-28,UK,Social
+566,2024-04-05,Germany,Organic
+567,2023-05-03,Italy,Organic
+568,2024-01-03,France,Referral
+569,2023-09-30,Netherlands,Social
+570,2023-08-15,Germany,Email
+571,2023-07-23,Germany,Social
+572,2023-09-20,Germany,Referral
+573,2023-06-19,Austria,Email
+574,2023-12-18,Netherlands,Organic
+575,2024-01-28,Italy,Email
+576,2023-04-11,Germany,Paid Search
+577,2023-08-16,Spain,Paid Search
+578,2023-05-11,UK,Email
+579,2024-02-18,Netherlands,Paid Search
+580,2024-01-08,France,Organic
+581,2024-04-10,Netherlands,Social
+582,2024-10-14,Germany,Referral
+583,2024-02-08,Germany,Organic
+584,2024-01-26,Italy,Social
+585,2024-03-01,Germany,Paid Search
+586,2023-07-13,Germany,Paid Search
+587,2024-05-14,Poland,Social
+588,2024-03-16,Germany,Social
+589,2023-10-06,UK,Email
+590,2023-11-01,Italy,Social
+591,2023-12-08,Spain,Referral
+592,2024-03-19,Germany,Email
+593,2024-07-16,UK,Organic
+594,2024-09-20,UK,Email
+595,2023-05-08,France,Social
+596,2023-10-19,Spain,Organic
+597,2023-07-15,Austria,Social
+598,2023-05-25,Germany,Email
+599,2023-02-15,Germany,Organic
+600,2023-02-11,Spain,Paid Search
+601,2023-05-17,France,Paid Search
+602,2023-01-27,Italy,Paid Search
+603,2023-05-17,Germany,Email
+604,2024-04-21,Germany,Organic
+605,2023-06-14,Netherlands,Email
+606,2023-04-05,Austria,Email
+607,2024-02-14,Germany,Paid Search
+608,2024-03-03,Italy,Paid Search
+609,2024-03-16,France,Organic
+610,2024-02-03,Germany,Organic
+611,2024-09-02,UK,Paid Search
+612,2023-05-08,Germany,Organic
+613,2023-08-17,Netherlands,Email
+614,2024-02-24,Germany,Social
+615,2024-03-11,UK,Organic
+616,2023-01-31,Germany,Paid Search
+617,2024-04-08,Italy,Email
+618,2023-09-14,Poland,Organic
+619,2024-02-25,France,Social
+620,2023-11-01,France,Organic
+621,2024-03-04,Austria,Referral
+622,2023-06-12,Germany,Paid Search
+623,2023-10-13,Italy,Paid Search
+624,2024-01-03,UK,Social
+625,2023-07-01,Poland,Paid Search
+626,2023-10-24,Germany,Social
+627,2024-01-13,Germany,Organic
+628,2023-05-01,Germany,Organic
+629,2023-06-29,Germany,Organic
+630,2024-01-30,Germany,Social
+631,2023-12-27,Austria,Email
+632,2023-02-27,Germany,Organic
+633,2023-09-13,Germany,Email
+634,2023-04-05,Germany,Email
+635,2023-12-24,France,Organic
+636,2023-02-23,UK,Organic
+637,2023-09-03,Germany,Paid Search
+638,2023-06-03,Italy,Organic
+639,2023-05-07,Italy,Email
+640,2023-10-04,Germany,Paid Search
+641,2023-09-23,Italy,Paid Search
+642,2023-03-23,France,Social
+643,2023-12-31,France,Organic
+644,2023-09-26,Poland,Email
+645,2023-06-29,Poland,Social
+646,2024-04-14,France,Paid Search
+647,2023-08-10,UK,Paid Search
+648,2024-03-02,Germany,Organic
+649,2023-06-27,UK,Referral
+650,2023-03-14,Netherlands,Paid Search
+651,2023-10-31,Germany,Email
+652,2023-08-31,Poland,Referral
+653,2023-06-21,Spain,Paid Search
+654,2023-05-27,Germany,Social
+655,2024-02-01,Italy,Social
+656,2023-06-28,Spain,Organic
+657,2023-11-15,Germany,Referral
+658,2024-01-21,UK,Paid Search
+659,2023-11-14,Italy,Email
+660,2024-11-02,Austria,Social
+661,2023-08-14,Germany,Organic
+662,2023-05-05,Netherlands,Paid Search
+663,2023-12-25,Italy,Organic
+664,2023-11-24,Austria,Organic
+665,2023-04-14,Germany,Social
+666,2023-11-02,UK,Organic
+667,2023-10-26,Poland,Referral
+668,2023-11-27,Germany,Paid Search
+669,2023-11-23,France,Paid Search
+670,2023-04-14,UK,Organic
+671,2023-06-06,UK,Organic
+672,2024-02-10,Spain,Social
+673,2023-03-19,Germany,Paid Search
+674,2024-10-06,Spain,Social
+675,2023-07-21,Germany,Social
+676,2023-05-08,Italy,Organic
+677,2024-03-13,France,Paid Search
+678,2024-02-21,Germany,Paid Search
+679,2023-09-05,Austria,Organic
+680,2023-08-26,Spain,Email
+681,2023-09-17,France,Organic
+682,2023-05-24,Germany,Organic
+683,2024-08-02,UK,Paid Search
+684,2024-04-19,Austria,Paid Search
+685,2024-02-26,Germany,Referral
+686,2024-03-23,Austria,Email
+687,2023-08-28,Germany,Email
+688,2023-02-20,Spain,Paid Search
+689,2023-03-30,France,Paid Search
+690,2023-11-14,Germany,Organic
+691,2023-04-06,Poland,Email
+692,2023-12-02,Germany,Paid Search
+693,2023-05-01,Austria,Paid Search
+694,2023-10-27,Germany,Social
+695,2023-08-19,Germany,Email
+696,2023-06-07,Poland,Paid Search
+697,2023-11-15,Netherlands,Organic
+698,2024-05-29,Germany,Referral
+699,2024-07-01,UK,Organic
+700,2023-05-08,Germany,Referral
+701,2023-09-22,Poland,Paid Search
+702,2023-10-21,Germany,Referral
+703,2024-03-23,UK,Referral
+704,2023-05-08,Germany,Paid Search
+705,2024-03-25,Netherlands,Email
+706,2023-06-06,Poland,Organic
+707,2023-10-31,Italy,Organic
+708,2023-12-06,France,Paid Search
+709,2023-07-15,Germany,Social
+710,2023-09-22,Germany,Organic
+711,2023-06-29,Poland,Paid Search
+712,2024-02-11,Germany,Referral
+713,2023-05-17,Netherlands,Email
+714,2023-02-27,France,Organic
+715,2024-03-11,Austria,Paid Search
+716,2023-09-08,UK,Organic
+717,2023-06-25,UK,Organic
+718,2023-10-07,Poland,Referral
+719,2023-11-02,Austria,Referral
+720,2023-07-18,UK,Organic
+721,2023-11-28,Italy,Organic
+722,2023-08-04,Netherlands,Paid Search
+723,2023-05-16,France,Paid Search
+724,2023-10-12,Germany,Organic
+725,2023-07-08,Spain,Organic
+726,2023-01-13,Spain,Paid Search
+727,2024-02-02,Germany,Organic
+728,2024-01-23,Germany,Email
+729,2023-12-30,Spain,Email
+730,2023-06-17,Germany,Paid Search
+731,2023-10-01,Netherlands,Paid Search
+732,2023-04-14,Spain,Email
+733,2023-08-08,France,Organic
+734,2023-08-15,Germany,Email
+735,2024-02-19,France,Organic
+736,2023-01-30,France,Referral
+737,2024-04-11,UK,Organic
+738,2023-11-14,Spain,Email
+739,2023-09-20,Italy,Organic
+740,2024-02-16,Germany,Email
+741,2024-01-27,Spain,Social
+742,2023-07-26,Germany,Organic
+743,2024-02-27,Italy,Email
+744,2023-10-25,Germany,Organic
+745,2023-10-18,UK,Paid Search
+746,2024-08-17,UK,Paid Search
+747,2024-07-09,Germany,Email
+748,2024-07-09,Austria,Email
+749,2023-05-20,Germany,Paid Search
+750,2024-02-20,Germany,Email
+751,2023-12-30,Netherlands,Referral
+752,2023-09-25,UK,Social
+753,2023-06-27,Germany,Paid Search
+754,2023-04-03,Germany,Paid Search
+755,2023-11-13,Germany,Organic
+756,2023-12-21,Italy,Paid Search
+757,2023-10-11,UK,Organic
+758,2023-09-10,Germany,Email
+759,2023-08-06,France,Social
+760,2023-06-12,Poland,Social
+761,2023-06-17,Poland,Organic
+762,2023-08-08,Germany,Organic
+763,2023-10-30,Netherlands,Email
+764,2024-03-16,Germany,Paid Search
+765,2023-08-22,Germany,Referral
+766,2024-01-15,Italy,Paid Search
+767,2024-06-20,Poland,Organic
+768,2023-06-03,Germany,Social
+769,2023-04-13,Poland,Social
+770,2023-10-01,Spain,Organic
+771,2023-07-05,Spain,Social
+772,2024-02-23,Italy,Organic
+773,2024-02-10,UK,Organic
+774,2024-02-01,Austria,Organic
+775,2023-12-14,Germany,Social
+776,2024-01-29,UK,Social
+777,2023-04-19,Germany,Organic
+778,2023-10-21,Italy,Email
+779,2023-10-23,Germany,Email
+780,2023-09-11,France,Paid Search
+781,2023-03-22,Spain,Organic
+782,2023-09-03,Germany,Organic
+783,2023-10-03,Germany,Organic
+784,2023-08-30,Germany,Referral
+785,2023-06-20,Spain,Email
+786,2023-07-19,Germany,Organic
+787,2023-05-27,France,Paid Search
+788,2023-11-27,UK,Organic
+789,2023-12-02,Austria,Organic
+790,2023-12-31,Italy,Paid Search
+791,2023-03-02,Germany,Organic
+792,2024-06-03,Poland,Organic
+793,2024-06-06,Italy,Paid Search
+794,2023-12-11,Spain,Paid Search
+795,2023-10-28,UK,Paid Search
+796,2024-03-10,Germany,Paid Search
+797,2023-05-19,Spain,Paid Search
+798,2024-03-30,UK,Paid Search
+799,2024-01-23,Germany,Paid Search
+800,2024-02-03,Germany,Referral
+801,2023-08-16,Germany,Organic
+802,2024-01-31,UK,Social
+803,2023-03-27,Germany,Organic
+804,2024-03-13,Netherlands,Paid Search
+805,2023-02-16,Italy,Paid Search
+806,2023-11-29,Germany,Email
+807,2024-05-27,Germany,Referral
+808,2023-05-28,Germany,Paid Search
+809,2024-05-10,France,Organic
+810,2023-11-07,Italy,Email
+811,2023-12-31,Netherlands,Organic
+812,2024-05-19,Italy,Paid Search
+813,2023-03-07,Austria,Email
+814,2023-12-03,Germany,Paid Search
+815,2023-07-19,Netherlands,Social
+816,2024-01-02,France,Organic
+817,2023-02-21,UK,Organic
+818,2023-09-10,Germany,Referral
+819,2023-10-26,France,Organic
+820,2023-05-07,Netherlands,Paid Search
+821,2023-10-16,Netherlands,Paid Search
+822,2023-09-15,Germany,Paid Search
+823,2023-12-14,Germany,Organic
+824,2024-02-27,UK,Organic
+825,2023-12-15,Spain,Paid Search
+826,2024-04-12,UK,Paid Search
+827,2024-02-19,Germany,Email
+828,2023-12-15,Germany,Paid Search
+829,2023-11-15,Spain,Referral
+830,2023-11-17,Spain,Organic
+831,2023-07-19,Germany,Paid Search
+832,2023-02-23,France,Referral
+833,2024-02-11,France,Email
+834,2024-02-21,Netherlands,Paid Search
+835,2024-03-09,Germany,Paid Search
+836,2023-01-07,Netherlands,Email
+837,2023-05-31,Austria,Organic
+838,2023-09-18,France,Organic
+839,2023-09-12,Germany,Paid Search
+840,2024-03-13,Germany,Email
+841,2023-08-09,Germany,Social
+842,2023-05-18,Poland,Paid Search
+843,2024-05-12,Austria,Referral
+844,2024-04-24,Germany,Organic
+845,2023-07-29,Poland,Email
+846,2024-04-10,Germany,Organic
+847,2024-02-23,UK,Social
+848,2023-03-04,Netherlands,Paid Search
+849,2023-07-08,France,Organic
+850,2023-11-22,UK,Paid Search
+851,2024-03-12,Netherlands,Email
+852,2023-10-09,Germany,Paid Search
+853,2023-07-08,Austria,Organic
+854,2023-06-23,Germany,Organic
+855,2024-01-30,Germany,Social
+856,2023-08-08,Austria,Social
+857,2024-05-07,France,Paid Search
+858,2024-04-08,France,Organic
+859,2024-02-15,Germany,Social
+860,2023-12-25,Germany,Paid Search
+861,2023-12-04,Germany,Organic
+862,2024-04-07,France,Paid Search
+863,2023-08-07,UK,Paid Search
+864,2024-08-30,France,Referral
+865,2024-07-16,Poland,Social
+866,2023-01-22,Poland,Organic
+867,2023-05-22,Germany,Email
+868,2023-11-11,Austria,Organic
+869,2024-03-22,Italy,Referral
+870,2023-05-17,Poland,Paid Search
+871,2024-03-07,Spain,Referral
+872,2023-07-11,Germany,Email
+873,2023-11-19,Germany,Email
+874,2023-10-25,Poland,Organic
+875,2023-06-17,UK,Email
+876,2023-12-04,Poland,Social
+877,2023-07-31,Spain,Paid Search
+878,2023-05-12,Germany,Paid Search
+879,2023-02-11,France,Social
+880,2024-01-24,Austria,Referral
+881,2023-11-06,Germany,Email
+882,2023-11-18,Spain,Paid Search
+883,2023-05-10,Austria,Social
+884,2023-09-11,Germany,Organic
+885,2023-11-11,Germany,Paid Search
+886,2023-07-19,UK,Email
+887,2024-06-07,Italy,Social
+888,2024-01-07,UK,Email
+889,2023-09-29,Germany,Paid Search
+890,2023-11-30,Germany,Paid Search
+891,2024-04-20,France,Social
+892,2024-05-25,Germany,Organic
+893,2024-04-28,Germany,Referral
+894,2023-04-28,Italy,Referral
+895,2023-05-28,Germany,Email
+896,2023-04-23,Italy,Email
+897,2024-01-06,Poland,Paid Search
+898,2024-04-02,Netherlands,Paid Search
+899,2023-08-10,Netherlands,Email
+900,2023-08-06,Germany,Organic
+901,2023-07-30,UK,Email
+902,2023-05-05,France,Organic
+903,2024-08-10,Germany,Email
+904,2023-09-05,UK,Paid Search
+905,2024-03-03,Germany,Email
+906,2024-08-06,Germany,Paid Search
+907,2024-06-21,Netherlands,Social
+908,2023-04-27,France,Referral
+909,2023-09-19,Germany,Paid Search
+910,2023-12-01,Germany,Organic
+911,2024-05-08,Germany,Organic
+912,2023-10-27,UK,Social
+913,2023-06-08,UK,Social
+914,2023-09-04,Germany,Social
+915,2023-01-21,Netherlands,Organic
+916,2023-12-17,Austria,Organic
+917,2024-02-10,UK,Email
+918,2023-09-30,UK,Social
+919,2024-03-26,Netherlands,Organic
+920,2023-06-19,Poland,Organic
+921,2024-02-17,Austria,Organic
+922,2023-08-25,Germany,Email
+923,2023-07-16,Germany,Social
+924,2023-07-05,Germany,Social
+925,2024-02-01,Spain,Social
+926,2023-11-05,Germany,Email
+927,2023-10-06,Poland,Paid Search
+928,2024-01-16,Germany,Paid Search
+929,2023-09-02,UK,Paid Search
+930,2023-10-05,Germany,Referral
+931,2024-05-25,France,Social
+932,2023-05-15,France,Paid Search
+933,2023-06-09,Spain,Email
+934,2024-05-20,UK,Organic
+935,2024-03-10,France,Paid Search
+936,2023-08-12,Spain,Social
+937,2023-07-14,Poland,Referral
+938,2023-07-10,Italy,Organic
+939,2024-03-22,Spain,Paid Search
+940,2023-08-21,UK,Referral
+941,2023-06-15,Poland,Social
+942,2024-03-21,UK,Social
+943,2023-04-26,Poland,Organic
+944,2023-09-12,Italy,Organic
+945,2024-05-03,Germany,Paid Search
+946,2023-12-29,Germany,Organic
+947,2024-10-09,Spain,Email
+948,2023-09-18,Netherlands,Social
+949,2023-09-23,UK,Email
+950,2023-08-18,Austria,Organic
+951,2024-01-02,UK,Paid Search
+952,2023-11-05,France,Email
+953,2023-12-29,UK,Organic
+954,2023-06-16,Germany,Organic
+955,2024-01-26,UK,Paid Search
+956,2024-02-18,Poland,Organic
+957,2023-11-07,Germany,Organic
+958,2023-07-11,Italy,Paid Search
+959,2024-06-06,Italy,Email
+960,2024-03-13,Germany,Organic
+961,2024-01-10,Italy,Social
+962,2023-04-13,Spain,Social
+963,2023-11-17,UK,Paid Search
+964,2024-01-06,Germany,Paid Search
+965,2023-07-17,Germany,Organic
+966,2023-07-15,Netherlands,Organic
+967,2024-02-29,Germany,Paid Search
+968,2023-11-02,Germany,Referral
+969,2023-07-01,Poland,Paid Search
+970,2023-09-14,Spain,Paid Search
+971,2023-04-08,Spain,Referral
+972,2023-11-03,Austria,Email
+973,2024-09-29,Germany,Email
+974,2023-11-18,Germany,Paid Search
+975,2024-01-04,Netherlands,Email
+976,2023-10-04,France,Social
+977,2023-06-01,Germany,Social
+978,2023-09-26,Spain,Email
+979,2023-09-18,Germany,Paid Search
+980,2024-05-01,UK,Referral
+981,2023-07-16,UK,Referral
+982,2024-03-19,Netherlands,Social
+983,2023-07-08,Germany,Organic
+984,2024-01-11,Germany,Email
+985,2023-04-22,Poland,Paid Search
+986,2024-01-11,Poland,Social
+987,2023-07-22,UK,Organic
+988,2023-03-17,Germany,Email
+989,2023-06-15,UK,Referral
+990,2023-12-07,Germany,Organic
+991,2023-11-21,Germany,Social
+992,2023-03-17,Germany,Email
+993,2023-12-20,Germany,Organic
+994,2023-09-16,Germany,Organic
+995,2023-06-22,Germany,Paid Search
+996,2023-07-11,Italy,Email
+997,2023-12-02,UK,Paid Search
+998,2023-09-17,France,Organic
+999,2023-06-26,Germany,Organic
+1000,2023-08-08,Poland,Paid Search
+1001,2023-06-23,Germany,Organic
+1002,2023-07-29,Germany,Social
+1003,2023-04-01,Netherlands,Organic
+1004,2023-03-14,Spain,Email
+1005,2023-06-29,Italy,Social
+1006,2024-01-30,France,Email
+1007,2023-10-05,France,Organic
+1008,2023-12-16,Germany,Social
+1009,2023-09-25,UK,Email
+1010,2023-11-27,France,Paid Search
+1011,2023-06-27,Germany,Organic
+1012,2023-06-28,Germany,Organic
+1013,2023-09-25,Austria,Social
+1014,2024-04-30,Germany,Paid Search
+1015,2023-05-24,Germany,Referral
+1016,2023-07-19,Poland,Email
+1017,2023-07-31,Spain,Social
+1018,2024-08-11,UK,Referral
+1019,2023-10-22,Netherlands,Social
+1020,2023-10-07,Germany,Organic
+1021,2023-07-28,Italy,Organic
+1022,2023-01-11,Germany,Email
+1023,2024-03-05,Austria,Paid Search
+1024,2023-04-15,Germany,Referral
+1025,2023-09-08,Netherlands,Organic
+1026,2023-04-15,UK,Organic
+1027,2024-03-05,Germany,Email
+1028,2024-01-05,France,Email
+1029,2023-03-16,Spain,Email
+1030,2023-06-08,Germany,Organic
+1031,2023-10-21,Austria,Paid Search
+1032,2023-01-23,Germany,Social
+1033,2023-02-03,Netherlands,Referral
+1034,2023-08-09,Netherlands,Organic
+1035,2024-01-28,France,Social
+1036,2023-08-20,Netherlands,Organic
+1037,2024-03-23,Spain,Social
+1038,2023-10-11,Netherlands,Organic
+1039,2023-08-18,UK,Referral
+1040,2024-02-25,UK,Organic
+1041,2023-05-04,France,Social
+1042,2024-01-09,Germany,Email
+1043,2024-03-08,Germany,Organic
+1044,2023-08-14,UK,Organic
+1045,2023-03-07,Poland,Social
+1046,2023-01-18,Germany,Social
+1047,2023-06-22,UK,Social
+1048,2023-07-26,Germany,Social
+1049,2023-09-15,UK,Organic
+1050,2023-09-23,Spain,Referral
+1051,2023-07-22,Spain,Organic
+1052,2023-06-07,Spain,Social
+1053,2023-04-25,Spain,Referral
+1054,2023-03-29,Germany,Referral
+1055,2023-11-13,UK,Organic
+1056,2024-03-01,Germany,Organic
+1057,2023-05-08,Poland,Social
+1058,2024-01-19,Spain,Paid Search
+1059,2023-07-21,Germany,Social
+1060,2024-01-29,Germany,Paid Search
+1061,2024-03-03,France,Organic
+1062,2023-10-18,Austria,Paid Search
+1063,2023-04-14,Germany,Social
+1064,2023-04-06,UK,Email
+1065,2023-09-14,France,Paid Search
+1066,2023-05-10,Netherlands,Organic
+1067,2024-03-05,Netherlands,Paid Search
+1068,2023-07-16,Germany,Social
+1069,2023-11-16,Spain,Email
+1070,2023-11-16,Germany,Email
+1071,2024-06-02,Italy,Referral
+1072,2023-07-02,Germany,Paid Search
+1073,2023-10-07,UK,Email
+1074,2023-11-15,France,Organic
+1075,2023-08-08,UK,Social
+1076,2023-08-09,Germany,Paid Search
+1077,2023-06-06,UK,Email
+1078,2023-12-16,Germany,Email
+1079,2023-12-10,France,Organic
+1080,2023-12-05,Italy,Email
+1081,2024-07-10,France,Email
+1082,2023-12-01,UK,Referral
+1083,2023-05-14,Netherlands,Paid Search
+1084,2023-09-03,France,Referral
+1085,2023-04-08,Italy,Email
+1086,2023-07-09,France,Social
+1087,2024-06-18,Austria,Paid Search
+1088,2023-12-21,Poland,Email
+1089,2023-06-16,France,Email
+1090,2024-07-21,France,Social
+1091,2023-04-09,Netherlands,Referral
+1092,2023-09-27,Spain,Organic
+1093,2024-04-01,Germany,Social
+1094,2024-03-15,Germany,Paid Search
+1095,2023-05-05,Germany,Paid Search
+1096,2023-05-31,Spain,Paid Search
+1097,2023-07-15,Spain,Paid Search
+1098,2023-08-02,Germany,Paid Search
+1099,2024-01-09,UK,Organic
+1100,2023-06-09,Spain,Organic
+1101,2023-08-10,Austria,Social
+1102,2023-06-24,Germany,Paid Search
+1103,2023-11-21,Germany,Organic
+1104,2023-08-12,France,Organic
+1105,2023-08-13,Netherlands,Organic
+1106,2024-05-12,Germany,Organic
+1107,2023-03-13,Germany,Referral
+1108,2023-05-18,Spain,Social
+1109,2023-11-05,UK,Paid Search
+1110,2023-05-25,Germany,Paid Search
+1111,2023-08-13,France,Organic
+1112,2023-12-12,Germany,Social
+1113,2024-01-22,France,Referral
+1114,2023-09-03,France,Organic
+1115,2023-12-04,Germany,Organic
+1116,2023-06-28,Germany,Social
+1117,2023-09-10,Poland,Organic
+1118,2023-11-09,Poland,Organic
+1119,2023-12-10,Germany,Social
+1120,2023-10-30,Netherlands,Social
+1121,2023-02-21,Germany,Organic
+1122,2023-11-29,Italy,Email
+1123,2024-07-22,Poland,Organic
+1124,2024-01-14,Netherlands,Paid Search
+1125,2023-04-28,Netherlands,Social
+1126,2024-05-05,France,Social
+1127,2023-12-12,Germany,Social
+1128,2024-03-16,UK,Social
+1129,2023-07-02,Germany,Social
+1130,2024-05-25,Netherlands,Email
+1131,2023-10-24,France,Social
+1132,2023-12-06,Germany,Paid Search
+1133,2023-05-31,UK,Email
+1134,2023-08-15,Italy,Organic
+1135,2024-04-27,UK,Email
+1136,2024-03-22,UK,Organic
+1137,2023-11-10,Italy,Paid Search
+1138,2023-09-29,Germany,Social
+1139,2023-01-03,Netherlands,Social
+1140,2023-06-19,France,Organic
+1141,2023-08-12,Germany,Paid Search
+1142,2023-07-23,Austria,Email
+1143,2023-08-08,France,Referral
+1144,2023-07-15,Germany,Paid Search
+1145,2023-03-21,Germany,Organic
+1146,2024-05-06,Austria,Paid Search
+1147,2023-09-01,Italy,Paid Search
+1148,2023-06-18,Germany,Organic
+1149,2023-08-21,UK,Email
+1150,2023-07-11,Germany,Paid Search
+1151,2023-04-10,Spain,Paid Search
+1152,2023-04-05,UK,Paid Search
+1153,2023-04-22,Germany,Organic
+1154,2023-07-19,UK,Paid Search
+1155,2023-09-11,Poland,Paid Search
+1156,2023-11-17,France,Paid Search
+1157,2023-08-28,Germany,Social
+1158,2023-07-13,Austria,Paid Search
+1159,2023-07-19,Germany,Social
+1160,2023-09-01,France,Email
+1161,2023-06-17,UK,Paid Search
+1162,2023-08-17,Germany,Paid Search
+1163,2024-02-11,Germany,Email
+1164,2023-11-07,Germany,Paid Search
+1165,2023-11-07,Germany,Paid Search
+1166,2023-07-03,UK,Email
+1167,2023-11-20,Italy,Social
+1168,2024-03-21,Germany,Referral
+1169,2024-06-15,Spain,Paid Search
+1170,2023-12-12,France,Paid Search
+1171,2023-06-14,Germany,Organic
+1172,2023-11-26,UK,Organic
+1173,2023-09-23,Germany,Paid Search
+1174,2024-08-17,UK,Organic
+1175,2023-11-25,France,Paid Search
+1176,2023-05-22,Netherlands,Organic
+1177,2024-04-27,Poland,Organic
+1178,2023-12-25,Germany,Paid Search
+1179,2023-01-12,Poland,Social
+1180,2023-12-17,Germany,Paid Search
+1181,2023-12-08,Germany,Email
+1182,2024-07-08,Germany,Organic
+1183,2023-05-02,Italy,Organic
+1184,2023-09-12,Netherlands,Referral
+1185,2023-07-09,Austria,Referral
+1186,2023-04-05,Spain,Paid Search
+1187,2023-07-11,France,Paid Search
+1188,2024-03-01,Poland,Email
+1189,2023-10-01,Austria,Paid Search
+1190,2024-06-20,Italy,Organic
+1191,2023-03-24,UK,Organic
+1192,2024-02-27,Italy,Organic
+1193,2024-06-13,Germany,Email
+1194,2023-06-30,Poland,Social
+1195,2024-06-04,Austria,Organic
+1196,2023-08-15,Netherlands,Organic
+1197,2024-01-09,Germany,Organic
+1198,2024-03-12,Germany,Social
+1199,2023-12-02,Austria,Email
+1200,2023-04-08,Poland,Paid Search
+1201,2023-07-18,Spain,Email
+1202,2023-09-18,Austria,Organic
+1203,2024-03-09,UK,Social
+1204,2023-04-28,Poland,Paid Search
+1205,2024-03-05,Germany,Organic
+1206,2024-07-30,Germany,Paid Search
+1207,2023-11-14,UK,Email
+1208,2023-01-26,Germany,Organic
+1209,2024-05-18,France,Paid Search
+1210,2023-07-14,Italy,Email
+1211,2023-07-30,Germany,Email
+1212,2024-06-09,Spain,Paid Search
+1213,2023-05-08,Germany,Organic
+1214,2023-02-28,Italy,Email
+1215,2023-09-12,Germany,Organic
+1216,2024-09-08,Spain,Organic
+1217,2023-07-10,UK,Organic
+1218,2023-12-09,France,Paid Search
+1219,2023-10-01,Germany,Social
+1220,2023-11-10,Germany,Email
+1221,2023-07-26,France,Paid Search
+1222,2023-07-31,Germany,Referral
+1223,2023-11-23,Germany,Social
+1224,2023-05-11,Spain,Social
+1225,2024-03-15,Germany,Organic
+1226,2023-05-31,Germany,Organic
+1227,2024-09-03,France,Social
+1228,2023-12-23,France,Social
+1229,2024-05-01,UK,Organic
+1230,2023-10-10,Netherlands,Paid Search
+1231,2023-08-01,UK,Paid Search
+1232,2023-07-25,UK,Paid Search
+1233,2023-11-27,France,Organic
+1234,2023-09-19,Germany,Organic
+1235,2024-03-23,Spain,Paid Search
+1236,2024-03-03,Germany,Email
+1237,2024-02-14,Italy,Email
+1238,2024-03-13,UK,Organic
+1239,2024-01-27,Netherlands,Organic
+1240,2023-09-17,UK,Paid Search
+1241,2023-06-23,Poland,Organic
+1242,2023-07-27,France,Email
+1243,2023-12-24,France,Paid Search
+1244,2023-06-22,Poland,Email
+1245,2024-01-25,UK,Organic
+1246,2023-04-28,France,Referral
+1247,2024-01-12,Germany,Email
+1248,2023-11-13,Germany,Social
+1249,2023-06-18,Italy,Referral
+1250,2023-05-04,Germany,Paid Search
+1251,2024-07-01,Germany,Organic
+1252,2023-11-25,Germany,Paid Search
+1253,2023-05-26,Austria,Email
+1254,2024-06-16,UK,Email
+1255,2024-05-27,UK,Paid Search
+1256,2024-01-26,Poland,Social
+1257,2023-05-26,France,Organic
+1258,2023-07-24,Italy,Organic
+1259,2023-02-01,Spain,Social
+1260,2023-05-28,France,Paid Search
+1261,2023-08-20,Spain,Organic
+1262,2023-11-12,Austria,Email
+1263,2024-02-25,Germany,Paid Search
+1264,2023-06-24,Germany,Paid Search
+1265,2023-03-02,Italy,Organic
+1266,2023-04-09,France,Organic
+1267,2024-01-22,UK,Social
+1268,2024-05-18,Germany,Email
+1269,2023-08-15,Italy,Organic
+1270,2023-11-07,Spain,Email
+1271,2024-05-05,Austria,Email
+1272,2023-09-01,France,Email
+1273,2023-08-28,Austria,Social
+1274,2024-02-10,UK,Paid Search
+1275,2024-02-26,Netherlands,Email
+1276,2023-09-12,Netherlands,Paid Search
+1277,2024-01-26,UK,Organic
+1278,2023-06-21,UK,Paid Search
+1279,2023-10-20,Germany,Paid Search
+1280,2023-11-11,France,Paid Search
+1281,2023-06-05,Spain,Email
+1282,2023-06-23,Germany,Paid Search
+1283,2023-08-08,Spain,Organic
+1284,2024-03-11,Germany,Referral
+1285,2024-04-09,Germany,Organic
+1286,2024-04-08,Netherlands,Organic
+1287,2024-03-17,Germany,Email
+1288,2023-07-21,Austria,Referral
+1289,2024-07-13,Austria,Social
+1290,2023-02-03,France,Paid Search
+1291,2024-02-28,France,Paid Search
+1292,2023-11-13,Germany,Email
+1293,2023-04-12,Spain,Email
+1294,2023-08-24,Germany,Organic
+1295,2023-11-08,Poland,Email
+1296,2023-04-22,Austria,Social
+1297,2023-09-19,Germany,Organic
+1298,2023-05-23,Netherlands,Organic
+1299,2023-12-26,France,Organic
+1300,2024-01-06,UK,Referral
+1301,2023-03-17,Germany,Paid Search
+1302,2023-10-28,Spain,Social
+1303,2023-12-30,Germany,Organic
+1304,2023-02-10,Poland,Email
+1305,2023-12-30,France,Paid Search
+1306,2024-03-22,Netherlands,Referral
+1307,2024-06-10,Poland,Paid Search
+1308,2023-12-12,Spain,Email
+1309,2023-05-10,UK,Social
+1310,2023-11-22,France,Paid Search
+1311,2023-12-01,France,Referral
+1312,2024-02-02,France,Paid Search
+1313,2024-06-13,Austria,Email
+1314,2023-10-24,Germany,Organic
+1315,2023-11-17,France,Social
+1316,2023-10-14,Spain,Referral
+1317,2023-09-23,France,Email
+1318,2023-12-14,Poland,Paid Search
+1319,2023-06-07,Germany,Paid Search
+1320,2024-03-12,Germany,Email
+1321,2023-12-12,Netherlands,Paid Search
+1322,2023-11-11,UK,Referral
+1323,2023-05-18,Poland,Organic
+1324,2023-04-25,France,Organic
+1325,2024-03-19,Germany,Email
+1326,2024-07-01,Germany,Paid Search
+1327,2023-12-14,France,Paid Search
+1328,2024-08-27,UK,Paid Search
+1329,2024-03-22,Germany,Referral
+1330,2023-05-15,UK,Social
+1331,2023-11-04,Poland,Referral
+1332,2023-08-07,France,Paid Search
+1333,2023-12-14,Netherlands,Paid Search
+1334,2023-10-20,Germany,Organic
+1335,2024-02-24,Italy,Paid Search
+1336,2024-02-18,Germany,Organic
+1337,2023-06-29,UK,Organic
+1338,2023-10-15,Germany,Paid Search
+1339,2023-12-02,Germany,Social
+1340,2023-12-01,Germany,Paid Search
+1341,2024-03-27,Germany,Paid Search
+1342,2023-05-13,Poland,Paid Search
+1343,2023-06-08,Germany,Paid Search
+1344,2023-06-11,Austria,Email
+1345,2024-03-25,UK,Email
+1346,2024-03-03,Germany,Email
+1347,2023-06-21,France,Organic
+1348,2023-10-05,Germany,Paid Search
+1349,2023-03-22,Italy,Email
+1350,2023-04-08,Germany,Referral
+1351,2023-06-06,Poland,Paid Search
+1352,2024-03-17,Germany,Paid Search
+1353,2024-01-15,Germany,Email
+1354,2023-06-18,Germany,Referral
+1355,2023-07-13,Netherlands,Paid Search
+1356,2023-05-02,UK,Organic
+1357,2023-06-19,Poland,Email
+1358,2023-07-28,France,Social
+1359,2023-11-20,Germany,Organic
+1360,2023-09-18,Spain,Paid Search
+1361,2023-02-12,UK,Social
+1362,2023-05-08,Italy,Social
+1363,2024-03-01,France,Email
+1364,2023-10-30,Spain,Organic
+1365,2023-08-20,Germany,Organic
+1366,2023-12-09,Austria,Social
+1367,2023-07-18,Germany,Organic
+1368,2024-02-29,Italy,Paid Search
+1369,2023-11-19,Germany,Paid Search
+1370,2023-07-28,Spain,Paid Search
+1371,2024-08-09,Italy,Email
+1372,2023-09-26,Poland,Organic
+1373,2024-03-26,France,Email
+1374,2024-03-06,France,Social
+1375,2023-05-13,Italy,Paid Search
+1376,2023-07-16,UK,Email
+1377,2024-06-11,Netherlands,Organic
+1378,2023-08-07,Germany,Email
+1379,2023-11-09,France,Organic
+1380,2023-07-06,France,Referral
+1381,2024-01-02,Netherlands,Organic
+1382,2023-07-07,Germany,Social
+1383,2024-03-12,France,Organic
+1384,2023-12-06,Italy,Paid Search
+1385,2024-01-01,UK,Organic
+1386,2024-03-18,Poland,Organic
+1387,2023-11-10,Germany,Organic
+1388,2023-08-22,France,Organic
+1389,2023-04-13,UK,Social
+1390,2024-03-08,France,Paid Search
+1391,2024-03-30,Netherlands,Organic
+1392,2024-07-26,Germany,Referral
+1393,2024-01-11,UK,Social
+1394,2023-05-21,Germany,Organic
+1395,2024-05-29,Netherlands,Paid Search
+1396,2023-08-11,Italy,Paid Search
+1397,2023-07-24,Germany,Social
+1398,2023-12-29,France,Email
+1399,2023-06-26,UK,Social
+1400,2024-01-08,Spain,Referral
+1401,2023-08-18,Germany,Social
+1402,2024-04-19,France,Referral
+1403,2024-01-26,Spain,Social
+1404,2023-04-24,UK,Social
+1405,2024-02-27,Spain,Social
+1406,2023-08-28,France,Email
+1407,2024-08-28,Poland,Organic
+1408,2023-08-25,Germany,Organic
+1409,2024-01-12,Germany,Organic
+1410,2023-09-16,UK,Organic
+1411,2023-08-18,France,Referral
+1412,2023-09-13,Netherlands,Social
+1413,2024-04-15,Germany,Organic
+1414,2023-09-02,Germany,Paid Search
+1415,2023-06-13,Spain,Organic
+1416,2024-02-04,Germany,Email
+1417,2023-07-23,Spain,Referral
+1418,2024-03-29,Netherlands,Organic
+1419,2024-01-09,Germany,Paid Search
+1420,2023-12-13,Spain,Referral
+1421,2024-02-03,Poland,Social
+1422,2024-05-26,Italy,Email
+1423,2023-12-05,Germany,Paid Search
+1424,2023-08-13,UK,Organic
+1425,2024-04-23,Poland,Social
+1426,2024-01-24,UK,Organic
+1427,2023-12-15,Germany,Email
+1428,2023-04-02,Germany,Email
+1429,2024-01-28,Netherlands,Paid Search
+1430,2023-09-25,Spain,Paid Search
+1431,2023-02-09,Poland,Email
+1432,2023-01-19,Poland,Referral
+1433,2023-07-15,Germany,Paid Search
+1434,2023-02-13,UK,Email
+1435,2023-10-29,Germany,Organic
+1436,2023-04-07,Germany,Referral
+1437,2023-08-15,Germany,Social
+1438,2023-09-05,Poland,Organic
+1439,2023-05-21,Germany,Social
+1440,2023-08-23,UK,Social
+1441,2023-08-14,France,Social
+1442,2024-03-08,Germany,Paid Search
+1443,2024-06-13,UK,Social
+1444,2024-04-12,Germany,Email
+1445,2023-05-10,France,Paid Search
+1446,2024-03-13,France,Organic
+1447,2024-04-12,Italy,Email
+1448,2023-02-25,Spain,Social
+1449,2023-08-09,Italy,Paid Search
+1450,2024-02-11,France,Email
+1451,2023-07-22,Germany,Organic
+1452,2024-03-11,France,Email
+1453,2023-12-15,Austria,Paid Search
+1454,2024-01-18,Germany,Organic
+1455,2024-07-02,Germany,Referral
+1456,2024-03-21,Austria,Email
+1457,2023-05-03,Austria,Organic
+1458,2023-06-28,Germany,Referral
+1459,2023-12-10,Spain,Referral
+1460,2023-06-12,France,Email
+1461,2023-12-07,UK,Organic
+1462,2023-12-04,UK,Organic
+1463,2023-04-28,Austria,Email
+1464,2023-10-28,Germany,Referral
+1465,2023-07-01,Spain,Organic
+1466,2023-08-15,Germany,Paid Search
+1467,2023-11-18,Netherlands,Organic
+1468,2024-04-11,Netherlands,Paid Search
+1469,2023-05-05,Spain,Social
+1470,2024-02-29,Poland,Organic
+1471,2023-12-07,Spain,Social
+1472,2023-11-05,Spain,Social
+1473,2023-08-17,Germany,Paid Search
+1474,2023-11-28,Austria,Email
+1475,2023-05-14,France,Organic
+1476,2023-08-09,France,Organic
+1477,2024-02-15,UK,Paid Search
+1478,2023-12-09,France,Paid Search
+1479,2024-01-03,UK,Organic
+1480,2024-10-05,France,Referral
+1481,2023-08-01,Germany,Organic
+1482,2024-01-13,Poland,Organic
+1483,2023-06-10,Poland,Email
+1484,2024-07-05,UK,Referral
+1485,2023-09-05,Austria,Paid Search
+1486,2023-10-10,France,Organic
+1487,2023-03-13,France,Paid Search
+1488,2023-11-21,Poland,Organic
+1489,2023-04-28,Netherlands,Paid Search
+1490,2024-07-23,Spain,Social
+1491,2023-09-10,France,Paid Search
+1492,2023-06-01,France,Paid Search
+1493,2023-10-15,Germany,Email
+1494,2023-07-18,Austria,Organic
+1495,2023-01-23,Germany,Organic
+1496,2023-10-07,UK,Email
+1497,2023-05-18,Germany,Organic
+1498,2023-10-11,Netherlands,Organic
+1499,2024-05-22,France,Organic
+1500,2024-04-16,Spain,Social
+1501,2024-04-25,UK,Social
+1502,2023-10-28,Germany,Paid Search
+1503,2023-10-11,Germany,Paid Search
+1504,2023-04-15,Germany,Paid Search
+1505,2023-12-17,Spain,Organic
+1506,2024-04-27,Italy,Email
+1507,2023-11-30,France,Referral
+1508,2024-09-19,UK,Paid Search
+1509,2023-10-18,Germany,Paid Search
+1510,2024-04-16,Poland,Email
+1511,2023-07-30,Austria,Organic
+1512,2023-08-19,Spain,Paid Search
+1513,2023-07-16,Germany,Referral
+1514,2023-06-10,France,Organic
+1515,2024-05-18,Austria,Organic
+1516,2023-04-05,Germany,Paid Search
+1517,2023-05-18,Netherlands,Social
+1518,2024-08-02,Poland,Social
+1519,2024-04-06,Spain,Organic
+1520,2023-08-05,UK,Social
+1521,2023-12-15,UK,Organic
+1522,2023-09-02,Poland,Referral
+1523,2024-03-17,France,Organic
+1524,2023-06-29,Poland,Organic
+1525,2023-05-26,France,Social
+1526,2023-08-18,Spain,Organic
+1527,2024-05-16,Poland,Social
+1528,2023-04-06,UK,Organic
+1529,2024-03-06,Germany,Paid Search
+1530,2023-09-13,Germany,Organic
+1531,2023-07-04,Italy,Paid Search
+1532,2024-05-15,Netherlands,Organic
+1533,2023-05-18,Germany,Paid Search
+1534,2024-02-11,Poland,Organic
+1535,2024-05-09,Poland,Email
+1536,2023-11-28,Poland,Social
+1537,2024-09-26,UK,Organic
+1538,2023-05-06,Austria,Organic
+1539,2023-06-10,Poland,Organic
+1540,2024-01-10,Germany,Organic
+1541,2024-04-18,Austria,Paid Search
+1542,2024-07-06,UK,Paid Search
+1543,2024-06-27,Poland,Referral
+1544,2024-01-17,Spain,Email
+1545,2024-05-08,Netherlands,Organic
+1546,2023-03-26,Germany,Organic
+1547,2023-06-03,Germany,Organic
+1548,2023-04-05,Germany,Organic
+1549,2023-11-03,Netherlands,Paid Search
+1550,2023-12-12,Italy,Organic
+1551,2023-05-08,Germany,Organic
+1552,2024-01-14,Germany,Organic
+1553,2023-09-10,Netherlands,Social
+1554,2023-10-08,Germany,Organic
+1555,2023-12-21,Germany,Referral
+1556,2023-10-20,Germany,Paid Search
+1557,2023-10-05,Netherlands,Paid Search
+1558,2023-03-26,UK,Paid Search
+1559,2023-04-24,Italy,Paid Search
+1560,2023-03-17,Germany,Paid Search
+1561,2023-06-13,Germany,Paid Search
+1562,2024-03-31,Italy,Paid Search
+1563,2023-06-29,Austria,Paid Search
+1564,2023-08-21,France,Organic
+1565,2023-12-12,Italy,Social
+1566,2023-10-02,Spain,Social
+1567,2023-07-17,Poland,Social
+1568,2023-12-09,France,Referral
+1569,2023-11-27,Germany,Paid Search
+1570,2024-02-26,Germany,Email
+1571,2023-07-17,Spain,Paid Search
+1572,2023-09-10,Italy,Paid Search
+1573,2023-09-12,France,Social
+1574,2023-06-17,Germany,Organic
+1575,2023-02-05,Germany,Organic
+1576,2023-12-12,UK,Paid Search
+1577,2024-05-01,Poland,Organic
+1578,2023-11-08,France,Organic
+1579,2023-09-23,Netherlands,Email
+1580,2023-06-28,UK,Paid Search
+1581,2024-04-21,Poland,Organic
+1582,2023-03-07,Italy,Organic
+1583,2024-04-03,Germany,Referral
+1584,2024-04-24,Netherlands,Referral
+1585,2023-09-20,Italy,Social
+1586,2023-06-13,Poland,Organic
+1587,2024-01-16,UK,Paid Search
+1588,2024-01-19,Germany,Paid Search
+1589,2023-11-21,UK,Email
+1590,2023-03-13,Netherlands,Paid Search
+1591,2024-05-12,Germany,Email
+1592,2023-08-22,Austria,Paid Search
+1593,2024-01-17,Germany,Email
+1594,2023-02-20,Poland,Paid Search
+1595,2023-03-15,France,Paid Search
+1596,2023-04-13,Germany,Paid Search
+1597,2024-02-10,UK,Social
+1598,2024-05-01,Netherlands,Email
+1599,2023-03-10,Italy,Paid Search
+1600,2023-11-17,UK,Referral
+1601,2024-05-25,Germany,Paid Search
+1602,2023-02-11,Poland,Paid Search
+1603,2024-05-09,UK,Organic
+1604,2023-07-09,Germany,Organic
+1605,2024-06-14,Poland,Email
+1606,2023-08-10,Germany,Organic
+1607,2023-11-09,Germany,Paid Search
+1608,2023-08-29,UK,Organic
+1609,2023-06-06,Netherlands,Social
+1610,2023-06-06,UK,Referral
+1611,2023-08-28,Poland,Email
+1612,2023-12-07,Germany,Paid Search
+1613,2024-04-10,Austria,Paid Search
+1614,2023-08-15,Germany,Organic
+1615,2024-04-26,Germany,Referral
+1616,2024-06-13,Germany,Organic
+1617,2023-12-03,Germany,Referral
+1618,2023-10-16,France,Email
+1619,2024-01-09,Italy,Social
+1620,2023-04-24,Italy,Email
+1621,2023-05-10,Spain,Paid Search
+1622,2023-08-20,Germany,Organic
+1623,2023-07-18,Italy,Paid Search
+1624,2024-01-04,France,Organic
+1625,2023-09-18,Spain,Social
+1626,2024-07-31,Spain,Paid Search
+1627,2023-04-17,Germany,Email
+1628,2023-11-01,UK,Email
+1629,2023-08-10,Poland,Organic
+1630,2024-04-10,Germany,Organic
+1631,2024-08-04,Spain,Paid Search
+1632,2023-05-24,Austria,Organic
+1633,2023-03-02,France,Social
+1634,2023-08-14,France,Social
+1635,2023-11-07,France,Social
+1636,2023-05-26,Italy,Paid Search
+1637,2023-08-09,France,Email
+1638,2023-08-12,UK,Social
+1639,2024-04-09,Germany,Referral
+1640,2023-04-08,Austria,Email
+1641,2023-06-20,Poland,Social
+1642,2023-09-24,UK,Organic
+1643,2023-11-15,Austria,Email
+1644,2024-04-07,Netherlands,Paid Search
+1645,2023-09-11,Austria,Paid Search
+1646,2023-08-09,Germany,Paid Search
+1647,2023-04-08,Germany,Paid Search
+1648,2023-10-17,Poland,Organic
+1649,2023-07-24,France,Organic
+1650,2023-05-24,France,Email
+1651,2023-07-13,Spain,Social
+1652,2023-06-01,Netherlands,Referral
+1653,2023-05-28,France,Email
+1654,2023-06-30,France,Paid Search
+1655,2023-08-01,France,Email
+1656,2023-06-24,Germany,Social
+1657,2024-02-24,Germany,Organic
+1658,2023-10-13,UK,Referral
+1659,2023-04-15,Spain,Referral
+1660,2023-05-19,France,Organic
+1661,2023-05-26,France,Email
+1662,2024-12-01,Netherlands,Organic
+1663,2023-08-12,Germany,Referral
+1664,2023-10-12,France,Social
+1665,2023-02-21,Germany,Organic
+1666,2023-07-31,Netherlands,Email
+1667,2024-06-09,Germany,Paid Search
+1668,2023-06-25,France,Organic
+1669,2024-04-26,UK,Email
+1670,2023-06-06,Italy,Email
+1671,2023-10-04,Spain,Paid Search
+1672,2023-11-24,Austria,Social
+1673,2023-07-06,Netherlands,Organic
+1674,2023-09-23,France,Paid Search
+1675,2024-03-03,Germany,Social
+1676,2024-04-25,Germany,Organic
+1677,2024-06-03,Germany,Paid Search
+1678,2023-08-23,Germany,Referral
+1679,2024-02-02,France,Email
+1680,2023-07-04,Spain,Social
+1681,2024-06-25,Netherlands,Social
+1682,2023-06-11,Germany,Email
+1683,2024-01-20,UK,Email
+1684,2023-08-02,Germany,Organic
+1685,2023-06-29,UK,Paid Search
+1686,2023-04-18,UK,Organic
+1687,2024-03-01,Germany,Organic
+1688,2023-04-21,Germany,Organic
+1689,2024-03-05,Austria,Social
+1690,2024-03-07,UK,Email
+1691,2023-11-14,UK,Referral
+1692,2024-07-04,Germany,Paid Search
+1693,2024-04-11,Germany,Paid Search
+1694,2023-03-08,France,Organic
+1695,2023-11-17,Austria,Organic
+1696,2024-03-13,Germany,Organic
+1697,2023-08-17,Germany,Referral
+1698,2023-09-17,Austria,Organic
+1699,2023-12-08,UK,Email
+1700,2023-09-20,Germany,Paid Search
+1701,2023-07-16,Netherlands,Paid Search
+1702,2023-04-19,UK,Email
+1703,2024-07-26,Austria,Referral
+1704,2023-09-08,Germany,Organic
+1705,2023-12-20,Italy,Referral
+1706,2023-07-22,Germany,Organic
+1707,2024-02-13,Italy,Email
+1708,2023-09-25,Italy,Organic
+1709,2024-04-07,Italy,Paid Search
+1710,2023-11-22,Italy,Social
+1711,2023-02-25,Spain,Email
+1712,2023-06-06,Germany,Email
+1713,2023-11-03,Germany,Organic
+1714,2023-09-15,France,Email
+1715,2024-03-13,UK,Paid Search
+1716,2024-03-09,Germany,Organic
+1717,2023-11-19,Spain,Organic
+1718,2023-08-03,Spain,Organic
+1719,2023-04-01,Austria,Organic
+1720,2023-06-06,France,Social
+1721,2023-07-20,Spain,Organic
+1722,2023-09-06,Spain,Social
+1723,2023-09-27,Austria,Organic
+1724,2023-05-22,Spain,Social
+1725,2023-10-19,Germany,Organic
+1726,2023-04-01,Germany,Paid Search
+1727,2023-05-14,Austria,Social
+1728,2023-09-14,Spain,Referral
+1729,2023-06-12,Italy,Referral
+1730,2023-04-07,Italy,Paid Search
+1731,2024-06-11,Spain,Referral
+1732,2023-12-20,Spain,Social
+1733,2023-07-13,Poland,Referral
+1734,2024-01-02,Poland,Organic
+1735,2024-01-18,France,Organic
+1736,2023-10-17,Germany,Organic
+1737,2024-05-30,Germany,Email
+1738,2023-05-22,France,Organic
+1739,2023-08-28,Italy,Organic
+1740,2024-03-31,Italy,Social
+1741,2023-07-05,France,Referral
+1742,2024-05-27,Germany,Social
+1743,2023-09-02,UK,Social
+1744,2023-09-01,Italy,Organic
+1745,2023-07-03,Netherlands,Referral
+1746,2023-08-20,Germany,Organic
+1747,2023-05-23,France,Organic
+1748,2024-01-12,UK,Paid Search
+1749,2024-02-27,UK,Organic
+1750,2023-08-01,Italy,Social
+1751,2024-06-23,Poland,Social
+1752,2024-01-04,Germany,Organic
+1753,2023-02-14,Germany,Organic
+1754,2023-09-13,France,Organic
+1755,2024-05-29,Germany,Organic
+1756,2023-07-09,France,Referral
+1757,2023-03-07,Germany,Social
+1758,2024-05-03,Germany,Organic
+1759,2023-10-01,Italy,Organic
+1760,2023-10-28,Germany,Email
+1761,2023-03-30,Italy,Email
+1762,2024-01-01,Germany,Referral
+1763,2023-07-26,Germany,Organic
+1764,2023-08-30,Germany,Paid Search
+1765,2024-08-13,Germany,Organic
+1766,2023-07-25,France,Email
+1767,2023-11-16,Italy,Paid Search
+1768,2023-12-09,Poland,Social
+1769,2024-05-12,Germany,Organic
+1770,2023-05-03,Germany,Email
+1771,2023-08-26,Germany,Organic
+1772,2023-03-08,Spain,Email
+1773,2023-08-18,Germany,Organic
+1774,2023-09-13,Germany,Email
+1775,2023-11-15,Poland,Organic
+1776,2023-10-03,Poland,Social
+1777,2023-09-24,Netherlands,Email
+1778,2024-03-20,Germany,Paid Search
+1779,2023-07-15,France,Organic
+1780,2023-03-24,Germany,Paid Search
+1781,2023-06-21,Netherlands,Organic
+1782,2023-10-22,Spain,Social
+1783,2023-06-24,Germany,Organic
+1784,2023-10-03,Poland,Organic
+1785,2023-08-07,France,Organic
+1786,2024-04-16,Italy,Organic
+1787,2023-10-03,Germany,Organic
+1788,2023-12-27,France,Social
+1789,2024-05-06,Germany,Organic
+1790,2023-05-01,Spain,Referral
+1791,2023-09-16,Germany,Email
+1792,2023-10-26,Germany,Paid Search
+1793,2023-10-13,Spain,Email
+1794,2023-11-23,Spain,Social
+1795,2023-03-27,Netherlands,Social
+1796,2023-07-03,Netherlands,Paid Search
+1797,2024-01-02,Netherlands,Social
+1798,2023-05-02,Netherlands,Organic
+1799,2024-03-03,France,Paid Search
+1800,2024-02-18,Germany,Organic
+1801,2023-08-07,France,Paid Search
+1802,2023-10-19,Germany,Social
+1803,2023-08-31,France,Organic
+1804,2023-10-17,France,Organic
+1805,2023-04-24,Germany,Email
+1806,2023-11-15,Spain,Organic
+1807,2024-04-23,Spain,Organic
+1808,2023-10-24,UK,Paid Search
+1809,2023-09-19,Poland,Referral
+1810,2023-10-28,Germany,Social
+1811,2023-10-26,Germany,Social
+1812,2024-04-16,Germany,Email
+1813,2023-09-30,UK,Social
+1814,2023-10-01,Germany,Email
+1815,2024-02-15,Italy,Social
+1816,2023-06-05,Germany,Email
+1817,2023-08-05,UK,Social
+1818,2023-07-31,UK,Organic
+1819,2024-05-22,Germany,Organic
+1820,2023-10-30,Spain,Organic
+1821,2023-08-29,Netherlands,Paid Search
+1822,2023-07-30,Spain,Referral
+1823,2023-07-28,UK,Email
+1824,2023-05-08,France,Email
+1825,2023-11-02,France,Social
+1826,2023-10-15,Spain,Referral
+1827,2023-03-31,France,Social
+1828,2024-05-09,France,Organic
+1829,2023-07-27,Germany,Paid Search
+1830,2024-01-08,Netherlands,Paid Search
+1831,2023-09-03,Germany,Organic
+1832,2023-12-27,Austria,Organic
+1833,2023-03-14,Germany,Organic
+1834,2024-01-08,France,Organic
+1835,2024-02-21,Germany,Organic
+1836,2023-06-25,Germany,Referral
+1837,2023-05-16,Germany,Paid Search
+1838,2023-09-03,Spain,Email
+1839,2023-10-28,Germany,Organic
+1840,2023-08-21,Germany,Referral
+1841,2023-03-09,Germany,Email
+1842,2023-08-03,Germany,Referral
+1843,2023-08-28,Austria,Paid Search
+1844,2023-10-08,France,Social
+1845,2023-11-26,Spain,Paid Search
+1846,2024-01-28,France,Paid Search
+1847,2024-07-09,France,Email
+1848,2023-11-05,Italy,Organic
+1849,2024-02-29,Germany,Organic
+1850,2023-06-16,Italy,Email
+1851,2023-05-07,UK,Organic
+1852,2024-05-07,France,Social
+1853,2023-06-03,Poland,Organic
+1854,2023-12-31,Germany,Paid Search
+1855,2023-02-03,Austria,Organic
+1856,2024-04-15,Poland,Paid Search
+1857,2023-03-22,Germany,Email
+1858,2024-03-06,France,Email
+1859,2023-11-01,Italy,Organic
+1860,2024-01-29,Germany,Paid Search
+1861,2023-10-18,Spain,Email
+1862,2024-01-04,Germany,Organic
+1863,2023-08-01,Germany,Organic
+1864,2024-01-17,UK,Paid Search
+1865,2024-06-25,Spain,Email
+1866,2024-01-23,Spain,Paid Search
+1867,2023-07-07,UK,Organic
+1868,2024-02-26,Germany,Referral
+1869,2023-06-08,France,Referral
+1870,2023-05-22,Germany,Social
+1871,2023-09-27,Germany,Social
+1872,2023-09-23,Germany,Referral
+1873,2023-11-10,UK,Social
+1874,2023-11-13,Germany,Email
+1875,2024-03-29,Germany,Paid Search
+1876,2023-10-08,Netherlands,Organic
+1877,2024-02-17,Germany,Email
+1878,2024-06-26,Austria,Social
+1879,2024-02-20,France,Organic
+1880,2023-12-12,Germany,Social
+1881,2023-10-19,Poland,Email
+1882,2024-05-03,UK,Organic
+1883,2023-09-30,Italy,Email
+1884,2023-12-15,France,Organic
+1885,2024-02-24,France,Social
+1886,2023-08-21,Netherlands,Referral
+1887,2023-03-25,France,Email
+1888,2023-10-14,UK,Email
+1889,2023-12-28,Germany,Social
+1890,2023-10-07,Germany,Paid Search
+1891,2024-08-24,Germany,Social
+1892,2023-11-28,Spain,Paid Search
+1893,2024-01-25,France,Social
+1894,2024-01-21,Austria,Paid Search
+1895,2023-03-31,Germany,Paid Search
+1896,2023-04-04,France,Paid Search
+1897,2024-05-30,Germany,Paid Search
+1898,2023-11-21,Netherlands,Paid Search
+1899,2023-10-10,Italy,Organic
+1900,2023-09-12,UK,Paid Search
+1901,2023-08-03,France,Organic
+1902,2024-05-18,Spain,Referral
+1903,2024-05-03,Germany,Organic
+1904,2023-08-08,UK,Email
+1905,2023-12-06,Spain,Organic
+1906,2024-04-30,Germany,Email
+1907,2023-10-23,Netherlands,Social
+1908,2023-05-31,Spain,Referral
+1909,2023-12-02,Germany,Email
+1910,2023-07-24,Germany,Social
+1911,2024-05-09,France,Organic
+1912,2024-05-06,Spain,Paid Search
+1913,2024-02-02,UK,Paid Search
+1914,2023-12-19,France,Email
+1915,2023-10-03,Germany,Email
+1916,2024-08-03,Germany,Paid Search
+1917,2023-03-11,Germany,Social
+1918,2023-08-07,Germany,Paid Search
+1919,2023-10-07,Germany,Social
+1920,2023-12-23,Germany,Social
+1921,2023-10-10,UK,Paid Search
+1922,2024-01-02,UK,Email
+1923,2023-04-10,Germany,Organic
+1924,2023-11-14,UK,Email
+1925,2024-02-04,Germany,Social
+1926,2023-11-22,France,Organic
+1927,2023-05-28,Austria,Paid Search
+1928,2023-09-05,UK,Organic
+1929,2023-06-24,Germany,Social
+1930,2023-11-04,France,Email
+1931,2023-07-14,Netherlands,Organic
+1932,2023-04-27,Germany,Organic
+1933,2023-11-07,Austria,Paid Search
+1934,2024-07-15,France,Organic
+1935,2023-05-03,Germany,Organic
+1936,2024-04-07,UK,Social
+1937,2023-12-01,Netherlands,Paid Search
+1938,2024-06-21,France,Email
+1939,2023-04-28,Poland,Paid Search
+1940,2023-10-08,Poland,Social
+1941,2024-04-01,Germany,Paid Search
+1942,2024-03-10,Germany,Organic
+1943,2024-01-07,Germany,Paid Search
+1944,2023-09-04,UK,Social
+1945,2024-07-13,UK,Referral
+1946,2023-12-13,Germany,Organic
+1947,2024-03-20,Austria,Paid Search
+1948,2024-05-10,Germany,Social
+1949,2023-12-13,Italy,Organic
+1950,2024-04-10,Italy,Email
+1951,2023-10-30,Germany,Organic
+1952,2024-04-02,Germany,Email
+1953,2023-03-11,Germany,Social
+1954,2024-08-02,Poland,Organic
+1955,2023-04-26,France,Social
+1956,2023-09-30,Italy,Organic
+1957,2024-09-03,France,Social
+1958,2023-06-30,France,Email
+1959,2024-06-10,Poland,Social
+1960,2023-08-25,France,Organic
+1961,2023-06-30,Spain,Paid Search
+1962,2023-11-15,France,Paid Search
+1963,2023-11-13,Germany,Social
+1964,2023-10-18,Germany,Social
+1965,2023-07-29,Germany,Paid Search
+1966,2024-02-21,Spain,Email
+1967,2023-10-06,France,Email
+1968,2023-07-23,France,Social
+1969,2024-03-23,Germany,Organic
+1970,2024-06-28,Netherlands,Paid Search
+1971,2024-04-14,Italy,Paid Search
+1972,2023-07-25,Netherlands,Email
+1973,2024-02-24,Austria,Email
+1974,2023-07-18,Germany,Email
+1975,2023-03-24,Germany,Organic
+1976,2023-04-30,UK,Social
+1977,2023-06-05,Germany,Email
+1978,2023-11-19,Netherlands,Organic
+1979,2024-05-07,Italy,Organic
+1980,2023-06-27,Germany,Organic
+1981,2024-03-13,Poland,Social
+1982,2023-03-05,Germany,Paid Search
+1983,2024-03-31,Netherlands,Organic
+1984,2023-08-10,France,Paid Search
+1985,2023-08-05,Netherlands,Email
+1986,2023-10-01,Germany,Email
+1987,2023-11-30,Poland,Email
+1988,2023-11-18,Poland,Email
+1989,2023-06-05,UK,Social
+1990,2023-11-09,UK,Email
+1991,2023-06-18,Netherlands,Paid Search
+1992,2023-03-28,UK,Email
+1993,2023-10-28,UK,Email
+1994,2023-10-26,UK,Social
+1995,2023-04-05,Italy,Paid Search
+1996,2023-07-29,Netherlands,Organic
+1997,2023-03-11,Germany,Paid Search
+1998,2024-05-22,Poland,Organic
+1999,2023-05-05,Germany,Organic
+2000,2023-09-26,Germany,Paid Search
+2001,2023-09-25,Austria,Organic
+2002,2024-06-02,Germany,Email
+2003,2023-02-17,Germany,Social
+2004,2024-07-24,UK,Email
+2005,2024-03-24,Italy,Paid Search
+2006,2023-11-11,Germany,Organic
+2007,2023-12-06,UK,Organic
+2008,2023-10-26,Germany,Email
+2009,2023-04-30,France,Organic
+2010,2023-11-15,France,Social
+2011,2024-01-08,Germany,Organic
+2012,2024-02-18,Poland,Paid Search
+2013,2024-07-07,Netherlands,Organic
+2014,2023-05-10,Italy,Paid Search
+2015,2024-02-11,Poland,Organic
+2016,2024-01-05,Poland,Email
+2017,2023-04-10,Spain,Organic
+2018,2023-06-03,Germany,Organic
+2019,2023-02-11,Italy,Organic
+2020,2023-05-02,UK,Referral
+2021,2023-07-31,Germany,Social
+2022,2023-04-04,France,Social
+2023,2024-05-03,Germany,Paid Search
+2024,2023-02-16,France,Email
+2025,2023-07-27,Spain,Organic
+2026,2023-04-23,UK,Email
+2027,2023-08-16,Germany,Email
+2028,2023-11-09,Germany,Organic
+2029,2023-10-18,Italy,Organic
+2030,2024-01-18,France,Paid Search
+2031,2024-06-14,France,Organic
+2032,2023-02-22,Spain,Organic
+2033,2023-12-05,Italy,Paid Search
+2034,2024-06-01,UK,Organic
+2035,2023-06-04,Netherlands,Social
+2036,2023-07-13,Germany,Paid Search
+2037,2023-07-26,Poland,Social
+2038,2023-09-26,UK,Paid Search
+2039,2023-05-15,Spain,Paid Search
+2040,2023-10-30,Germany,Paid Search
+2041,2023-09-04,Netherlands,Email
+2042,2024-03-06,France,Paid Search
+2043,2023-10-05,France,Social
+2044,2024-07-10,Netherlands,Email
+2045,2023-06-08,Italy,Social
+2046,2024-05-29,France,Organic
+2047,2023-04-02,Poland,Organic
+2048,2023-07-11,Germany,Social
+2049,2023-11-30,UK,Social
+2050,2023-06-05,Germany,Email
+2051,2023-11-28,Germany,Social
+2052,2023-07-07,Poland,Organic
+2053,2023-04-15,Germany,Email
+2054,2023-10-05,Poland,Social
+2055,2023-03-27,Germany,Referral
+2056,2023-08-31,Netherlands,Email
+2057,2023-07-21,Germany,Paid Search
+2058,2024-05-21,Netherlands,Social
+2059,2023-09-28,Poland,Social
+2060,2024-04-22,UK,Paid Search
+2061,2023-05-18,France,Paid Search
+2062,2024-06-14,Italy,Organic
+2063,2023-11-25,Spain,Organic
+2064,2023-06-20,Germany,Social
+2065,2023-07-24,Netherlands,Paid Search
+2066,2023-10-28,Netherlands,Email
+2067,2024-01-03,Spain,Paid Search
+2068,2023-05-13,Germany,Email
+2069,2024-06-09,France,Social
+2070,2023-05-13,Austria,Email
+2071,2023-03-14,UK,Paid Search
+2072,2023-06-11,UK,Referral
+2073,2024-08-14,Austria,Paid Search
+2074,2023-08-16,Germany,Email
+2075,2023-08-18,France,Paid Search
+2076,2024-01-08,Spain,Organic
+2077,2023-10-07,Spain,Social
+2078,2024-04-05,Austria,Paid Search
+2079,2023-05-15,Netherlands,Organic
+2080,2024-05-15,Germany,Paid Search
+2081,2024-01-29,France,Organic
+2082,2023-01-10,Germany,Referral
+2083,2023-11-23,Poland,Social
+2084,2023-08-01,Germany,Organic
+2085,2023-11-18,UK,Email
+2086,2023-05-03,France,Social
+2087,2024-03-25,Germany,Social
+2088,2024-05-18,Germany,Social
+2089,2023-05-31,Netherlands,Organic
+2090,2023-11-30,Germany,Organic
+2091,2023-11-08,Austria,Email
+2092,2023-07-05,Poland,Email
+2093,2023-09-22,Germany,Email
+2094,2023-10-09,Italy,Organic
+2095,2023-07-23,Germany,Email
+2096,2024-04-16,Germany,Paid Search
+2097,2023-09-29,Germany,Social
+2098,2024-01-12,Italy,Organic
+2099,2023-11-14,Netherlands,Email
+2100,2023-06-01,Germany,Referral
+2101,2024-01-10,Spain,Organic
+2102,2023-09-05,Spain,Email
+2103,2024-05-30,Spain,Social
+2104,2024-01-16,UK,Organic
+2105,2024-08-08,Italy,Organic
+2106,2024-06-12,Netherlands,Social
+2107,2023-06-29,Germany,Organic
+2108,2023-06-26,Italy,Organic
+2109,2023-03-17,Germany,Email
+2110,2023-06-23,Spain,Social
+2111,2023-10-30,Netherlands,Email
+2112,2023-10-14,Germany,Social
+2113,2023-05-09,Germany,Paid Search
+2114,2023-10-25,Netherlands,Email
+2115,2023-12-09,Italy,Organic
+2116,2023-09-28,Italy,Paid Search
+2117,2023-05-30,Netherlands,Social
+2118,2024-03-27,Germany,Referral
+2119,2023-11-01,Germany,Paid Search
+2120,2023-09-03,Spain,Referral
+2121,2023-05-31,France,Email
+2122,2024-09-12,Spain,Paid Search
+2123,2023-12-23,Germany,Paid Search
+2124,2023-06-06,Germany,Organic
+2125,2023-10-22,UK,Social
+2126,2023-11-29,UK,Organic
+2127,2023-09-18,Netherlands,Paid Search
+2128,2023-12-07,Germany,Organic
+2129,2023-05-17,Italy,Referral
+2130,2023-07-26,UK,Paid Search
+2131,2023-12-09,Spain,Paid Search
+2132,2024-04-25,Netherlands,Paid Search
+2133,2023-06-27,France,Organic
+2134,2024-01-02,Netherlands,Paid Search
+2135,2024-02-21,UK,Email
+2136,2024-01-20,UK,Social
+2137,2023-07-07,Netherlands,Paid Search
+2138,2024-10-02,Germany,Email
+2139,2023-06-08,Poland,Organic
+2140,2023-10-13,Germany,Email
+2141,2023-06-23,Germany,Organic
+2142,2023-09-17,Spain,Email
+2143,2023-09-17,Germany,Referral
+2144,2023-05-06,Austria,Email
+2145,2023-04-09,France,Organic
+2146,2023-07-24,Germany,Paid Search
+2147,2023-09-15,Germany,Email
+2148,2024-03-05,Germany,Paid Search
+2149,2023-07-02,Germany,Paid Search
+2150,2023-08-27,Germany,Paid Search
+2151,2023-09-02,Germany,Organic
+2152,2023-10-11,Germany,Paid Search
+2153,2024-04-03,France,Organic
+2154,2023-12-27,Germany,Social
+2155,2023-08-17,Germany,Paid Search
+2156,2024-03-11,Germany,Organic
+2157,2023-04-08,Germany,Organic
+2158,2023-08-02,Germany,Referral
+2159,2024-01-05,Germany,Social
+2160,2023-12-10,France,Social
+2161,2023-07-12,Poland,Email
+2162,2023-07-16,Germany,Social
+2163,2023-04-10,Germany,Paid Search
+2164,2023-09-01,Netherlands,Social
+2165,2023-05-17,UK,Organic
+2166,2023-06-17,Germany,Social
+2167,2023-09-26,Spain,Organic
+2168,2024-08-01,Spain,Referral
+2169,2023-12-19,Austria,Paid Search
+2170,2023-11-01,Poland,Organic
+2171,2023-03-02,UK,Social
+2172,2023-08-27,Netherlands,Organic
+2173,2024-08-25,France,Paid Search
+2174,2023-08-28,Poland,Email
+2175,2024-02-09,UK,Email
+2176,2023-09-28,Germany,Social
+2177,2023-12-31,Germany,Paid Search
+2178,2024-02-03,UK,Paid Search
+2179,2024-03-23,UK,Organic
+2180,2023-02-01,Italy,Social
+2181,2023-02-05,Germany,Social
+2182,2023-08-22,Italy,Organic
+2183,2024-05-19,Germany,Organic
+2184,2024-01-04,UK,Organic
+2185,2023-10-30,France,Organic
+2186,2023-07-15,Germany,Organic
+2187,2023-09-11,France,Paid Search
+2188,2023-05-02,Germany,Paid Search
+2189,2024-10-23,Germany,Paid Search
+2190,2023-07-09,Italy,Organic
+2191,2023-05-07,Germany,Paid Search
+2192,2023-07-22,Spain,Email
+2193,2024-04-05,Spain,Organic
+2194,2024-02-29,Germany,Paid Search
+2195,2024-05-13,Poland,Paid Search
+2196,2023-07-03,Spain,Organic
+2197,2024-02-07,Italy,Paid Search
+2198,2023-09-24,Italy,Paid Search
+2199,2023-12-13,UK,Paid Search
+2200,2023-04-05,Austria,Email
+2201,2024-01-17,Germany,Email
+2202,2024-09-09,Germany,Paid Search
+2203,2023-06-30,Spain,Paid Search
+2204,2023-04-09,Germany,Referral
+2205,2024-10-27,UK,Paid Search
+2206,2024-02-10,France,Referral
+2207,2024-01-22,Germany,Email
+2208,2024-06-19,Poland,Organic
+2209,2024-04-27,Germany,Organic
+2210,2023-07-17,Germany,Organic
+2211,2023-04-25,Netherlands,Email
+2212,2024-04-22,Spain,Paid Search
+2213,2023-06-16,Italy,Social
+2214,2023-05-29,Germany,Paid Search
+2215,2024-06-21,Poland,Email
+2216,2023-05-29,UK,Email
+2217,2023-09-07,Italy,Organic
+2218,2024-06-14,Germany,Paid Search
+2219,2023-03-08,France,Paid Search
+2220,2024-07-20,UK,Email
+2221,2023-03-08,UK,Social
+2222,2023-07-29,Germany,Paid Search
+2223,2023-04-12,UK,Email
+2224,2023-09-11,Netherlands,Paid Search
+2225,2023-10-18,France,Organic
+2226,2023-04-30,UK,Email
+2227,2023-10-07,Germany,Paid Search
+2228,2023-05-13,Poland,Email
+2229,2023-10-28,UK,Paid Search
+2230,2023-05-25,UK,Social
+2231,2023-11-08,Austria,Paid Search
+2232,2023-04-17,Netherlands,Paid Search
+2233,2023-10-06,Germany,Organic
+2234,2023-05-12,Netherlands,Social
+2235,2023-07-22,Austria,Organic
+2236,2023-11-28,Germany,Paid Search
+2237,2023-05-11,Netherlands,Paid Search
+2238,2023-02-06,Germany,Paid Search
+2239,2023-01-31,Italy,Social
+2240,2023-10-30,Netherlands,Social
+2241,2024-03-02,Poland,Social
+2242,2024-05-12,Netherlands,Paid Search
+2243,2024-03-15,Germany,Paid Search
+2244,2023-07-10,UK,Organic
+2245,2024-10-10,Poland,Paid Search
+2246,2024-05-15,Germany,Email
+2247,2024-05-12,Germany,Paid Search
+2248,2023-06-13,Spain,Referral
+2249,2024-02-08,UK,Organic
+2250,2023-11-03,Germany,Social
+2251,2023-06-19,Germany,Social
+2252,2024-07-03,Germany,Social
+2253,2023-04-25,Netherlands,Social
+2254,2023-05-04,France,Organic
+2255,2023-12-10,UK,Social
+2256,2023-07-08,Italy,Paid Search
+2257,2023-06-24,Germany,Paid Search
+2258,2023-07-07,Netherlands,Organic
+2259,2024-02-21,France,Organic
+2260,2024-08-09,France,Referral
+2261,2023-11-29,UK,Paid Search
+2262,2023-11-23,Netherlands,Paid Search
+2263,2023-10-22,Austria,Organic
+2264,2023-10-12,Germany,Social
+2265,2024-02-29,Germany,Social
+2266,2023-03-15,France,Referral
+2267,2023-08-21,UK,Social
+2268,2023-05-01,Germany,Organic
+2269,2023-09-21,Poland,Organic
+2270,2023-11-25,Italy,Organic
+2271,2023-10-29,UK,Social
+2272,2024-07-04,France,Referral
+2273,2024-03-10,Germany,Organic
+2274,2023-02-08,UK,Paid Search
+2275,2023-12-04,UK,Social
+2276,2024-05-08,Poland,Social
+2277,2024-01-18,UK,Social
+2278,2024-05-29,Germany,Paid Search
+2279,2023-12-28,Germany,Organic
+2280,2024-04-16,Germany,Paid Search
+2281,2023-11-30,Poland,Paid Search
+2282,2023-11-11,Italy,Social
+2283,2023-12-16,Italy,Organic
+2284,2023-07-19,Italy,Paid Search
+2285,2023-06-07,Germany,Referral
+2286,2023-11-16,Spain,Paid Search
+2287,2023-07-24,Spain,Organic
+2288,2024-04-01,Germany,Referral
+2289,2024-07-08,UK,Organic
+2290,2023-05-15,Netherlands,Email
+2291,2023-02-20,Poland,Organic
+2292,2023-05-06,Germany,Email
+2293,2023-08-19,Poland,Organic
+2294,2024-05-27,Poland,Paid Search
+2295,2024-04-14,Poland,Referral
+2296,2023-04-24,Germany,Social
+2297,2024-01-23,Germany,Organic
+2298,2023-08-04,Netherlands,Organic
+2299,2023-08-19,Germany,Organic
+2300,2023-07-29,Germany,Organic
+2301,2023-10-24,Spain,Paid Search
+2302,2023-12-20,Germany,Paid Search
+2303,2023-10-08,France,Referral
+2304,2023-08-19,Austria,Email
+2305,2024-09-11,France,Referral
+2306,2024-06-03,Poland,Paid Search
+2307,2024-04-12,France,Paid Search
+2308,2024-04-13,France,Social
+2309,2023-10-04,Germany,Paid Search
+2310,2023-08-03,France,Organic
+2311,2024-06-08,Germany,Email
+2312,2024-03-06,Italy,Social
+2313,2023-03-02,Poland,Paid Search
+2314,2023-05-25,Germany,Paid Search
+2315,2024-06-02,Germany,Organic
+2316,2023-08-16,Netherlands,Social
+2317,2024-04-14,UK,Paid Search
+2318,2023-09-25,Germany,Email
+2319,2024-03-02,Germany,Paid Search
+2320,2023-07-14,Germany,Paid Search
+2321,2024-01-08,UK,Social
+2322,2023-03-20,Germany,Referral
+2323,2024-03-12,Spain,Email
+2324,2024-02-05,Germany,Paid Search
+2325,2024-04-24,France,Paid Search
+2326,2023-05-22,UK,Social
+2327,2024-01-17,Germany,Email
+2328,2023-09-17,Poland,Referral
+2329,2023-06-15,Netherlands,Paid Search
+2330,2023-12-17,Poland,Social
+2331,2023-06-05,France,Organic
+2332,2023-10-01,France,Organic
+2333,2023-02-12,Germany,Organic
+2334,2024-03-31,UK,Organic
+2335,2023-09-22,UK,Paid Search
+2336,2023-08-21,France,Paid Search
+2337,2023-12-05,Germany,Social
+2338,2024-03-30,Germany,Social
+2339,2023-04-11,Germany,Organic
+2340,2024-01-21,Germany,Social
+2341,2023-06-04,UK,Organic
+2342,2023-11-20,Austria,Organic
+2343,2023-06-19,Germany,Referral
+2344,2023-03-13,Germany,Organic
+2345,2023-06-09,Germany,Paid Search
+2346,2023-06-15,Germany,Social
+2347,2024-01-14,Netherlands,Paid Search
+2348,2023-07-20,Germany,Paid Search
+2349,2024-03-21,Austria,Social
+2350,2023-09-05,Italy,Social
+2351,2023-07-31,UK,Paid Search
+2352,2024-05-07,Poland,Email
+2353,2023-03-30,Netherlands,Organic
+2354,2023-10-30,Austria,Paid Search
+2355,2023-05-27,Germany,Organic
+2356,2023-11-01,Austria,Organic
+2357,2024-03-17,Germany,Referral
+2358,2023-11-05,France,Social
+2359,2023-09-18,Poland,Organic
+2360,2023-03-26,France,Paid Search
+2361,2023-10-14,Germany,Organic
+2362,2024-03-26,Germany,Social
+2363,2023-09-03,Germany,Paid Search
+2364,2023-10-02,France,Referral
+2365,2023-09-25,France,Organic
+2366,2024-05-11,UK,Paid Search
+2367,2023-03-23,Italy,Referral
+2368,2024-02-22,Germany,Email
+2369,2024-06-19,Italy,Organic
+2370,2023-08-20,UK,Paid Search
+2371,2023-09-22,Spain,Email
+2372,2023-09-26,Spain,Social
+2373,2024-01-16,Poland,Social
+2374,2023-10-20,Germany,Social
+2375,2024-02-06,UK,Referral
+2376,2024-02-13,Poland,Paid Search
+2377,2023-05-08,Spain,Organic
+2378,2023-04-11,Germany,Paid Search
+2379,2024-04-17,Netherlands,Social
+2380,2024-01-08,Italy,Paid Search
+2381,2023-01-17,Germany,Paid Search
+2382,2023-11-07,Netherlands,Social
+2383,2023-05-20,Italy,Paid Search
+2384,2023-03-09,UK,Referral
+2385,2023-08-13,Germany,Paid Search
+2386,2024-07-10,UK,Social
+2387,2023-03-28,UK,Social
+2388,2023-08-13,France,Organic
+2389,2023-07-08,Netherlands,Paid Search
+2390,2023-11-16,France,Organic
+2391,2023-02-20,Poland,Email
+2392,2023-08-14,Italy,Social
+2393,2024-02-27,Italy,Organic
+2394,2023-08-10,UK,Paid Search
+2395,2024-04-18,Germany,Referral
+2396,2023-10-26,Spain,Organic
+2397,2023-09-08,Germany,Referral
+2398,2023-06-06,UK,Organic
+2399,2024-04-18,Germany,Organic
+2400,2023-12-06,UK,Paid Search
+2401,2024-01-27,Netherlands,Organic
+2402,2023-06-14,France,Email
+2403,2023-03-26,France,Social
+2404,2023-07-26,Germany,Social
+2405,2023-09-01,Germany,Social
+2406,2023-09-24,France,Social
+2407,2023-12-26,Italy,Social
+2408,2023-08-15,Poland,Social
+2409,2024-08-25,Austria,Email
+2410,2024-08-26,Germany,Social
+2411,2023-09-01,Germany,Paid Search
+2412,2023-06-22,France,Paid Search
+2413,2023-09-17,Netherlands,Paid Search
+2414,2023-11-17,Spain,Paid Search
+2415,2023-08-29,Spain,Paid Search
+2416,2023-12-09,UK,Paid Search
+2417,2023-09-08,UK,Organic
+2418,2023-10-17,Austria,Email
+2419,2024-02-16,Germany,Email
+2420,2024-02-01,Italy,Paid Search
+2421,2024-01-23,Spain,Referral
+2422,2024-08-12,Germany,Referral
+2423,2023-08-13,Poland,Email
+2424,2023-10-15,Italy,Organic
+2425,2023-05-02,Spain,Paid Search
+2426,2023-10-17,Germany,Paid Search
+2427,2023-08-12,Germany,Social
+2428,2023-05-22,Netherlands,Social
+2429,2024-01-28,Germany,Social
+2430,2023-11-09,Germany,Email
+2431,2024-11-22,France,Referral
+2432,2024-07-07,Germany,Social
+2433,2023-03-14,Spain,Referral
+2434,2024-01-05,UK,Email
+2435,2023-09-08,Germany,Paid Search
+2436,2023-03-11,UK,Email
+2437,2023-06-29,Germany,Organic
+2438,2023-09-07,Germany,Organic
+2439,2024-08-10,UK,Referral
+2440,2023-09-10,UK,Paid Search
+2441,2023-09-04,Germany,Paid Search
+2442,2023-03-02,Netherlands,Referral
+2443,2023-07-11,France,Paid Search
+2444,2023-09-10,UK,Organic
+2445,2024-02-17,France,Organic
+2446,2023-04-16,Spain,Paid Search
+2447,2023-11-03,UK,Organic
+2448,2024-02-13,Germany,Organic
+2449,2023-05-06,Netherlands,Email
+2450,2024-01-17,Spain,Paid Search
+2451,2023-10-02,Germany,Social
+2452,2023-09-15,UK,Organic
+2453,2023-07-09,Italy,Paid Search
+2454,2023-07-13,Germany,Social
+2455,2024-07-08,Poland,Paid Search
+2456,2023-12-01,France,Paid Search
+2457,2024-07-18,Spain,Paid Search
+2458,2024-01-04,Poland,Organic
+2459,2023-09-01,Austria,Organic
+2460,2024-03-08,UK,Paid Search
+2461,2024-03-31,Spain,Organic
+2462,2024-06-13,Germany,Organic
+2463,2023-11-06,Germany,Organic
+2464,2024-05-16,Italy,Email
+2465,2023-07-05,France,Paid Search
+2466,2023-05-09,Italy,Social
+2467,2024-03-05,Germany,Social
+2468,2023-07-25,Germany,Paid Search
+2469,2024-06-28,Germany,Organic
+2470,2023-04-08,UK,Paid Search
+2471,2023-04-14,Germany,Paid Search
+2472,2023-08-21,France,Paid Search
+2473,2023-04-12,Austria,Organic
+2474,2023-11-13,Italy,Referral
+2475,2023-07-22,Spain,Social
+2476,2023-04-06,Germany,Organic
+2477,2023-01-22,France,Referral
+2478,2023-07-08,Netherlands,Organic
+2479,2023-01-08,Germany,Organic
+2480,2023-06-25,France,Organic
+2481,2024-01-10,Poland,Referral
+2482,2024-01-23,Germany,Organic
+2483,2024-03-26,Poland,Email
+2484,2023-10-02,Germany,Social
+2485,2024-03-17,Germany,Paid Search
+2486,2023-04-08,Germany,Paid Search
+2487,2023-11-03,Poland,Organic
+2488,2024-02-03,UK,Social
+2489,2023-07-21,Spain,Paid Search
+2490,2024-02-04,France,Paid Search
+2491,2023-11-05,Poland,Organic
+2492,2023-09-04,UK,Email
+2493,2023-02-16,UK,Social
+2494,2024-03-07,Spain,Paid Search
+2495,2024-03-28,Spain,Paid Search
+2496,2023-09-06,Netherlands,Paid Search
+2497,2024-04-08,Germany,Paid Search
+2498,2023-06-09,Italy,Organic
+2499,2024-03-17,Germany,Social
+2500,2023-08-22,Austria,Organic
+2501,2024-01-14,France,Organic
+2502,2023-06-01,Germany,Organic
+2503,2023-07-08,Germany,Organic
+2504,2023-03-20,UK,Social
+2505,2023-09-08,France,Social
+2506,2024-08-28,Italy,Paid Search
+2507,2023-03-15,Netherlands,Paid Search
+2508,2023-02-23,Germany,Social
+2509,2024-06-11,UK,Social
+2510,2024-03-21,Spain,Email
+2511,2023-08-27,Poland,Email
+2512,2023-03-12,France,Email
+2513,2023-06-18,Poland,Email
+2514,2023-07-25,Germany,Email
+2515,2023-10-22,Netherlands,Social
+2516,2023-12-14,Spain,Social
+2517,2023-05-10,France,Social
+2518,2024-05-04,Germany,Organic
+2519,2023-09-13,Netherlands,Paid Search
+2520,2023-06-29,France,Referral
+2521,2023-06-16,Germany,Paid Search
+2522,2023-03-19,Germany,Organic
+2523,2024-03-29,Spain,Paid Search
+2524,2023-04-16,Germany,Organic
+2525,2023-09-05,UK,Paid Search
+2526,2024-03-12,Austria,Paid Search
+2527,2023-03-11,Spain,Paid Search
+2528,2023-08-30,UK,Paid Search
+2529,2023-10-03,UK,Organic
+2530,2023-08-21,Germany,Paid Search
+2531,2024-02-12,France,Organic
+2532,2023-06-19,Germany,Paid Search
+2533,2023-08-29,Germany,Social
+2534,2024-04-07,Germany,Organic
+2535,2024-02-06,UK,Referral
+2536,2023-08-23,Germany,Social
+2537,2023-12-26,Germany,Organic
+2538,2023-04-15,Italy,Paid Search
+2539,2023-10-12,Germany,Organic
+2540,2023-10-28,Spain,Organic
+2541,2024-10-24,France,Referral
+2542,2023-03-26,UK,Social
+2543,2024-04-19,Germany,Email
+2544,2024-01-20,Germany,Social
+2545,2023-02-25,Italy,Referral
+2546,2023-10-15,France,Email
+2547,2024-05-09,Germany,Organic
+2548,2023-11-03,France,Organic
+2549,2024-05-14,UK,Paid Search
+2550,2023-12-16,Germany,Paid Search
+2551,2023-09-16,UK,Paid Search
+2552,2023-01-29,UK,Organic
+2553,2024-02-13,UK,Email
+2554,2024-01-01,Italy,Organic
+2555,2024-07-24,France,Email
+2556,2024-06-13,Poland,Paid Search
+2557,2023-07-24,France,Organic
+2558,2024-02-17,France,Email
+2559,2023-10-13,Netherlands,Paid Search
+2560,2023-07-22,Netherlands,Social
+2561,2023-10-27,Germany,Email
+2562,2023-11-07,Austria,Organic
+2563,2023-07-09,Austria,Organic
+2564,2024-01-21,Germany,Organic
+2565,2023-11-17,UK,Organic
+2566,2024-06-14,Spain,Referral
+2567,2023-10-17,Poland,Email
+2568,2023-04-20,UK,Paid Search
+2569,2024-01-02,Germany,Social
+2570,2023-12-29,Netherlands,Referral
+2571,2023-07-20,Germany,Organic
+2572,2023-10-14,Netherlands,Organic
+2573,2023-05-04,UK,Email
+2574,2023-08-21,Netherlands,Social
+2575,2023-07-12,Germany,Organic
+2576,2023-08-27,UK,Paid Search
+2577,2024-01-10,Netherlands,Organic
+2578,2024-07-13,Germany,Social
+2579,2023-04-12,Germany,Social
+2580,2024-09-09,Germany,Organic
+2581,2023-10-28,Italy,Email
+2582,2023-06-08,France,Paid Search
+2583,2024-05-20,Netherlands,Social
+2584,2024-05-04,UK,Social
+2585,2024-07-30,Italy,Paid Search
+2586,2024-06-24,UK,Organic
+2587,2023-03-13,Germany,Organic
+2588,2023-12-03,Germany,Social
+2589,2023-10-29,Germany,Social
+2590,2024-05-09,Italy,Organic
+2591,2023-10-16,Netherlands,Referral
+2592,2023-12-01,Spain,Email
+2593,2023-06-02,Spain,Organic
+2594,2024-05-06,Italy,Organic
+2595,2023-01-20,Austria,Paid Search
+2596,2023-08-29,Netherlands,Organic
+2597,2023-05-15,Germany,Referral
+2598,2023-11-03,Germany,Social
+2599,2023-04-11,UK,Organic
+2600,2023-04-25,Spain,Paid Search
+2601,2023-07-12,UK,Organic
+2602,2024-01-10,Germany,Paid Search
+2603,2023-12-10,Spain,Organic
+2604,2023-10-20,France,Email
+2605,2023-08-29,Germany,Social
+2606,2024-04-28,Italy,Referral
+2607,2023-08-27,UK,Organic
+2608,2024-04-18,Germany,Paid Search
+2609,2023-07-04,Germany,Email
+2610,2024-01-18,UK,Paid Search
+2611,2023-06-28,France,Paid Search
+2612,2024-04-24,Germany,Referral
+2613,2024-01-30,Netherlands,Email
+2614,2024-04-06,Netherlands,Email
+2615,2023-05-25,Germany,Paid Search
+2616,2023-07-13,UK,Social
+2617,2023-06-16,UK,Paid Search
+2618,2023-03-23,Germany,Paid Search
+2619,2023-04-28,Germany,Organic
+2620,2023-10-09,Germany,Email
+2621,2023-07-18,France,Paid Search
+2622,2023-09-14,Italy,Social
+2623,2023-07-16,France,Email
+2624,2023-07-16,Austria,Email
+2625,2023-11-22,France,Organic
+2626,2023-06-17,Netherlands,Social
+2627,2023-08-21,UK,Paid Search
+2628,2023-04-06,Spain,Organic
+2629,2023-06-12,Poland,Organic
+2630,2024-01-08,UK,Social
+2631,2024-05-27,UK,Email
+2632,2024-02-08,Austria,Referral
+2633,2024-03-28,Poland,Paid Search
+2634,2023-02-19,Austria,Paid Search
+2635,2023-07-26,Germany,Organic
+2636,2023-04-28,Germany,Referral
+2637,2023-07-16,France,Email
+2638,2023-02-04,Spain,Referral
+2639,2023-06-15,Germany,Paid Search
+2640,2023-08-23,France,Organic
+2641,2023-11-18,UK,Social
+2642,2023-12-23,Germany,Paid Search
+2643,2023-05-25,Spain,Paid Search
+2644,2024-05-15,Germany,Organic
+2645,2024-06-05,Italy,Organic
+2646,2024-08-01,France,Paid Search
+2647,2024-06-22,UK,Referral
+2648,2023-09-16,UK,Social
+2649,2023-09-05,Germany,Email
+2650,2023-04-09,France,Organic
+2651,2024-02-21,Italy,Social
+2652,2023-10-13,UK,Paid Search
+2653,2024-08-20,Germany,Organic
+2654,2023-06-13,Spain,Paid Search
+2655,2023-10-25,Germany,Organic
+2656,2023-08-11,UK,Email
+2657,2023-10-14,France,Email
+2658,2024-07-08,UK,Organic
+2659,2023-05-12,Germany,Social
+2660,2023-07-26,Germany,Paid Search
+2661,2023-09-28,Germany,Organic
+2662,2023-12-11,France,Social
+2663,2023-07-11,Netherlands,Email
+2664,2023-12-24,Netherlands,Email
+2665,2023-08-15,Germany,Organic
+2666,2024-03-26,Germany,Paid Search
+2667,2023-03-28,Netherlands,Organic
+2668,2023-01-29,UK,Organic
+2669,2023-07-31,Italy,Organic
+2670,2023-10-29,Germany,Organic
+2671,2023-04-19,Germany,Paid Search
+2672,2024-03-09,France,Paid Search
+2673,2024-03-22,Netherlands,Social
+2674,2023-04-17,UK,Paid Search
+2675,2023-11-11,Germany,Organic
+2676,2023-05-17,Germany,Referral
+2677,2023-12-28,Netherlands,Email
+2678,2023-03-20,Germany,Organic
+2679,2023-05-07,Netherlands,Paid Search
+2680,2023-05-07,Germany,Organic
+2681,2023-10-06,Germany,Referral
+2682,2023-05-23,Germany,Paid Search
+2683,2023-12-25,Austria,Organic
+2684,2024-01-08,Germany,Social
+2685,2024-07-05,Germany,Social
+2686,2023-07-27,Italy,Organic
+2687,2024-01-15,Germany,Paid Search
+2688,2024-04-23,Germany,Paid Search
+2689,2023-03-10,Germany,Organic
+2690,2023-07-17,Netherlands,Organic
+2691,2024-04-25,France,Email
+2692,2023-12-23,Italy,Email
+2693,2023-08-06,Spain,Social
+2694,2023-03-26,UK,Social
+2695,2023-09-01,Germany,Paid Search
+2696,2023-04-12,Italy,Paid Search
+2697,2024-03-15,Italy,Social
+2698,2023-11-23,Italy,Organic
+2699,2023-09-04,Germany,Organic
+2700,2023-11-16,Netherlands,Organic
+2701,2023-04-29,Spain,Social
+2702,2023-12-30,Austria,Social
+2703,2023-07-31,Germany,Paid Search
+2704,2024-03-12,Spain,Paid Search
+2705,2023-09-29,Netherlands,Email
+2706,2023-11-08,Poland,Organic
+2707,2024-07-02,Netherlands,Paid Search
+2708,2023-02-01,Italy,Email
+2709,2023-03-15,France,Social
+2710,2023-05-03,Germany,Paid Search
+2711,2023-03-03,France,Organic
+2712,2023-06-27,Italy,Referral
+2713,2023-02-05,Germany,Paid Search
+2714,2023-04-26,Netherlands,Email
+2715,2024-03-19,Austria,Email
+2716,2023-04-29,Poland,Email
+2717,2024-01-16,Netherlands,Organic
+2718,2024-07-10,Italy,Paid Search
+2719,2023-09-29,Germany,Organic
+2720,2023-03-10,UK,Organic
+2721,2024-01-07,UK,Organic
+2722,2023-04-22,Spain,Paid Search
+2723,2023-07-29,Germany,Paid Search
+2724,2024-07-04,Germany,Social
+2725,2023-04-02,Netherlands,Paid Search
+2726,2023-10-25,UK,Organic
+2727,2023-08-20,Italy,Paid Search
+2728,2023-09-22,UK,Social
+2729,2023-06-08,Italy,Organic
+2730,2024-04-05,UK,Social
+2731,2023-11-07,Spain,Paid Search
+2732,2024-01-19,Spain,Social
+2733,2023-03-04,Germany,Email
+2734,2023-01-13,Germany,Paid Search
+2735,2024-02-08,Poland,Social
+2736,2023-10-27,Germany,Referral
+2737,2023-03-09,Netherlands,Organic
+2738,2024-02-06,Germany,Paid Search
+2739,2024-03-09,Spain,Referral
+2740,2023-06-28,Germany,Email
+2741,2024-03-17,UK,Social
+2742,2024-04-17,UK,Organic
+2743,2023-07-11,Germany,Paid Search
+2744,2024-04-13,UK,Email
+2745,2023-10-05,Poland,Social
+2746,2024-02-25,Netherlands,Organic
+2747,2024-06-22,Austria,Organic
+2748,2023-04-23,Spain,Email
+2749,2023-06-02,Netherlands,Social
+2750,2024-08-02,UK,Referral
+2751,2023-09-07,Poland,Paid Search
+2752,2023-11-25,UK,Paid Search
+2753,2023-10-09,France,Organic
+2754,2023-05-07,Italy,Paid Search
+2755,2024-02-11,Austria,Paid Search
+2756,2023-12-10,France,Organic
+2757,2023-10-06,Germany,Paid Search
+2758,2023-04-04,UK,Organic
+2759,2023-05-02,Spain,Email
+2760,2023-07-26,France,Organic
+2761,2024-06-06,Spain,Paid Search
+2762,2024-06-11,UK,Social
+2763,2023-09-15,Germany,Organic
+2764,2023-03-16,Netherlands,Paid Search
+2765,2023-10-04,France,Email
+2766,2023-09-16,Spain,Social
+2767,2024-02-03,Germany,Paid Search
+2768,2024-03-12,Italy,Email
+2769,2023-05-28,Germany,Referral
+2770,2023-03-30,Austria,Email
+2771,2024-02-29,Spain,Paid Search
+2772,2023-12-26,Germany,Social
+2773,2024-01-01,Austria,Paid Search
+2774,2023-02-20,UK,Paid Search
+2775,2023-07-25,UK,Paid Search
+2776,2023-05-15,Poland,Email
+2777,2023-06-20,Poland,Paid Search
+2778,2023-05-19,Netherlands,Email
+2779,2023-11-22,Austria,Referral
+2780,2023-02-15,Germany,Paid Search
+2781,2024-01-09,Germany,Organic
+2782,2023-07-14,Germany,Referral
+2783,2023-07-11,France,Organic
+2784,2024-05-27,UK,Email
+2785,2023-06-19,Germany,Organic
+2786,2023-07-27,UK,Organic
+2787,2023-07-14,Germany,Organic
+2788,2024-09-13,France,Organic
+2789,2023-06-13,Spain,Referral
+2790,2023-11-16,Germany,Organic
+2791,2023-05-22,Spain,Organic
+2792,2023-05-23,Spain,Social
+2793,2023-03-09,UK,Referral
+2794,2023-05-30,Poland,Paid Search
+2795,2023-03-06,Austria,Email
+2796,2023-07-04,Germany,Organic
+2797,2023-02-12,Netherlands,Email
+2798,2023-10-19,Germany,Social
+2799,2024-04-26,France,Email
+2800,2023-10-19,Netherlands,Social
+2801,2023-03-15,Spain,Referral
+2802,2023-08-26,Italy,Paid Search
+2803,2023-03-25,Spain,Social
+2804,2023-04-14,Spain,Social
+2805,2024-01-12,UK,Organic
+2806,2023-05-25,Germany,Referral
+2807,2023-07-29,Germany,Email
+2808,2024-07-06,UK,Email
+2809,2023-02-09,Spain,Paid Search
+2810,2024-04-03,Germany,Email
+2811,2024-01-06,France,Paid Search
+2812,2024-04-27,Germany,Referral
+2813,2023-09-22,UK,Organic
+2814,2024-07-06,France,Social
+2815,2023-04-30,Germany,Organic
+2816,2024-02-11,Germany,Social
+2817,2023-10-15,Germany,Paid Search
+2818,2023-01-11,UK,Email
+2819,2023-05-17,Poland,Email
+2820,2023-11-23,Germany,Paid Search
+2821,2024-04-13,UK,Email
+2822,2024-09-22,UK,Social
+2823,2024-02-16,Netherlands,Paid Search
+2824,2023-10-10,Germany,Paid Search
+2825,2023-03-21,Germany,Organic
+2826,2023-02-12,Poland,Organic
+2827,2023-11-17,Austria,Paid Search
+2828,2023-09-19,France,Paid Search
+2829,2023-09-14,UK,Paid Search
+2830,2024-01-24,Germany,Referral
+2831,2024-02-29,Germany,Organic
+2832,2023-02-07,Germany,Email
+2833,2023-11-16,Spain,Email
+2834,2024-02-25,Germany,Email
+2835,2023-04-06,Germany,Paid Search
+2836,2023-01-22,Germany,Organic
+2837,2024-02-09,Germany,Email
+2838,2024-03-30,France,Social
+2839,2023-08-01,UK,Email
+2840,2023-06-17,UK,Organic
+2841,2023-12-17,France,Social
+2842,2023-07-26,France,Paid Search
+2843,2023-09-15,Spain,Social
+2844,2023-02-14,Germany,Email
+2845,2023-04-13,Germany,Organic
+2846,2024-01-04,Italy,Organic
+2847,2023-08-31,Netherlands,Organic
+2848,2024-03-07,France,Organic
+2849,2023-07-29,Germany,Organic
+2850,2023-03-18,Germany,Organic
+2851,2023-08-15,Germany,Paid Search
+2852,2023-11-27,Italy,Social
+2853,2023-10-10,UK,Email
+2854,2024-08-30,Germany,Paid Search
+2855,2024-08-02,Germany,Organic
+2856,2024-05-12,Germany,Email
+2857,2024-05-20,Germany,Paid Search
+2858,2024-06-03,UK,Organic
+2859,2024-04-23,France,Paid Search
+2860,2023-06-22,Poland,Referral
+2861,2023-07-19,Spain,Paid Search
+2862,2023-11-16,Poland,Referral
+2863,2023-12-22,Italy,Organic
+2864,2024-04-20,Poland,Organic
+2865,2023-11-14,Austria,Organic
+2866,2023-08-15,Germany,Email
+2867,2023-05-29,Germany,Paid Search
+2868,2023-10-29,Germany,Social
+2869,2023-06-25,Netherlands,Referral
+2870,2023-06-25,Netherlands,Paid Search
+2871,2023-08-08,Germany,Organic
+2872,2023-05-14,Italy,Social
+2873,2023-07-27,Spain,Organic
+2874,2023-10-18,Netherlands,Social
+2875,2023-07-02,France,Email
+2876,2024-06-20,Germany,Paid Search
+2877,2024-01-30,UK,Paid Search
+2878,2023-12-27,Germany,Social
+2879,2023-10-24,UK,Organic
+2880,2023-04-06,Germany,Paid Search
+2881,2023-11-08,Germany,Paid Search
+2882,2024-04-11,France,Organic
+2883,2023-05-17,UK,Organic
+2884,2023-04-06,France,Social
+2885,2023-08-12,Austria,Paid Search
+2886,2023-05-25,Germany,Paid Search
+2887,2023-12-22,Poland,Referral
+2888,2023-08-26,Germany,Organic
+2889,2024-02-21,Germany,Organic
+2890,2023-02-04,Austria,Email
+2891,2024-05-20,Spain,Organic
+2892,2023-09-21,Netherlands,Referral
+2893,2023-10-02,Spain,Social
+2894,2023-12-27,France,Paid Search
+2895,2023-04-11,Spain,Organic
+2896,2023-12-24,Germany,Paid Search
+2897,2023-09-22,Italy,Email
+2898,2023-11-23,Poland,Organic
+2899,2023-06-16,Italy,Email
+2900,2023-06-09,Spain,Email
+2901,2023-03-13,Netherlands,Social
+2902,2023-08-13,UK,Organic
+2903,2023-02-25,France,Social
+2904,2024-03-23,Italy,Social
+2905,2023-05-28,Netherlands,Organic
+2906,2024-02-27,France,Email
+2907,2023-10-22,Spain,Organic
+2908,2024-03-14,Germany,Referral
+2909,2023-03-18,Italy,Organic
+2910,2023-09-13,Italy,Organic
+2911,2023-06-21,Germany,Social
+2912,2023-09-09,Germany,Organic
+2913,2023-08-02,Spain,Organic
+2914,2023-09-26,Germany,Organic
+2915,2023-06-28,Austria,Email
+2916,2023-10-16,Germany,Organic
+2917,2024-07-19,Germany,Social
+2918,2023-11-04,Germany,Social
+2919,2024-02-03,Spain,Paid Search
+2920,2023-05-03,UK,Paid Search
+2921,2024-02-22,Italy,Organic
+2922,2023-12-20,Austria,Referral
+2923,2024-04-10,Netherlands,Email
+2924,2023-12-08,Germany,Referral
+2925,2023-05-31,Germany,Social
+2926,2023-09-15,Italy,Email
+2927,2024-01-23,Germany,Referral
+2928,2023-12-10,Poland,Paid Search
+2929,2024-06-11,Poland,Referral
+2930,2023-05-06,Netherlands,Organic
+2931,2023-06-17,UK,Organic
+2932,2023-03-15,Austria,Paid Search
+2933,2023-10-06,Spain,Paid Search
+2934,2023-03-16,Netherlands,Paid Search
+2935,2023-06-28,France,Paid Search
+2936,2023-12-02,UK,Paid Search
+2937,2023-06-10,France,Email
+2938,2023-03-10,Austria,Paid Search
+2939,2023-07-14,Netherlands,Paid Search
+2940,2024-01-10,Spain,Social
+2941,2023-06-05,Germany,Social
+2942,2023-08-23,Italy,Email
+2943,2023-06-10,France,Paid Search
+2944,2024-04-25,Spain,Organic
+2945,2023-11-21,Germany,Referral
+2946,2024-07-17,Poland,Organic
+2947,2024-02-20,Netherlands,Social
+2948,2023-05-31,France,Paid Search
+2949,2023-06-09,Germany,Paid Search
+2950,2024-09-27,Germany,Email
+2951,2023-10-06,Germany,Paid Search
+2952,2023-12-05,Germany,Organic
+2953,2024-04-22,France,Email
+2954,2024-06-11,France,Organic
+2955,2023-07-27,France,Organic
+2956,2023-08-13,Spain,Paid Search
+2957,2024-01-26,France,Paid Search
+2958,2023-03-09,Germany,Social
+2959,2023-09-15,Italy,Paid Search
+2960,2023-09-24,France,Paid Search
+2961,2024-01-19,Netherlands,Paid Search
+2962,2023-09-15,Poland,Email
+2963,2024-02-01,Spain,Organic
+2964,2023-11-27,UK,Referral
+2965,2024-05-27,UK,Paid Search
+2966,2023-05-14,Italy,Paid Search
+2967,2023-08-01,Italy,Social
+2968,2023-11-01,Germany,Paid Search
+2969,2024-04-02,Netherlands,Social
+2970,2023-02-07,Italy,Referral
+2971,2023-11-10,Italy,Email
+2972,2023-09-19,Germany,Paid Search
+2973,2023-10-01,France,Social
+2974,2023-06-17,UK,Paid Search
+2975,2023-11-12,Germany,Email
+2976,2023-07-20,Netherlands,Organic
+2977,2023-07-28,France,Organic
+2978,2023-06-13,Germany,Paid Search
+2979,2023-10-08,Germany,Organic
+2980,2023-10-04,Italy,Social
+2981,2023-04-21,Italy,Organic
+2982,2023-04-25,Italy,Organic
+2983,2023-05-11,Poland,Social
+2984,2023-09-17,Austria,Paid Search
+2985,2023-11-27,UK,Referral
+2986,2024-05-15,Germany,Organic
+2987,2024-06-26,Italy,Organic
+2988,2023-07-19,Netherlands,Organic
+2989,2023-05-26,France,Paid Search
+2990,2024-03-05,Austria,Organic
+2991,2024-01-12,Germany,Email
+2992,2024-01-29,Poland,Organic
+2993,2024-05-06,UK,Referral
+2994,2023-07-13,Germany,Paid Search
+2995,2023-08-07,Italy,Social
+2996,2024-05-17,Spain,Organic
+2997,2023-05-15,Netherlands,Organic
+2998,2023-11-21,Netherlands,Paid Search
+2999,2024-08-21,Germany,Paid Search
+3000,2023-11-03,Germany,Social
+3001,2023-12-10,Germany,Paid Search
+3002,2023-09-15,Germany,Organic
+3003,2023-12-02,Germany,Referral
+3004,2023-11-25,UK,Organic
+3005,2023-06-11,Germany,Organic
+3006,2023-11-07,UK,Paid Search
+3007,2023-10-12,Germany,Paid Search
+3008,2023-05-15,Germany,Paid Search
+3009,2024-04-25,Austria,Social
+3010,2023-01-30,Austria,Social
+3011,2023-06-20,Italy,Social
+3012,2023-12-05,Germany,Organic
+3013,2023-10-19,Spain,Organic
+3014,2023-03-20,Germany,Email
+3015,2023-05-03,UK,Organic
+3016,2024-01-22,Poland,Paid Search
+3017,2023-09-16,France,Paid Search
+3018,2023-12-18,Poland,Social
+3019,2024-09-03,Spain,Organic
+3020,2023-10-28,Germany,Referral
+3021,2023-07-27,Germany,Paid Search
+3022,2023-09-14,Italy,Referral
+3023,2023-10-04,France,Organic
+3024,2023-12-11,Germany,Social
+3025,2023-10-27,Germany,Paid Search
+3026,2024-08-23,Austria,Email
+3027,2023-08-12,Germany,Paid Search
+3028,2024-10-13,Austria,Email
+3029,2023-11-05,Netherlands,Email
+3030,2023-05-07,Germany,Social
+3031,2023-05-10,France,Organic
+3032,2023-12-26,Spain,Organic
+3033,2023-06-27,France,Referral
+3034,2024-05-03,Germany,Referral
+3035,2023-05-17,Germany,Organic
+3036,2023-03-20,Italy,Organic
+3037,2023-04-21,Netherlands,Organic
+3038,2024-04-28,UK,Organic
+3039,2023-04-04,Germany,Organic
+3040,2024-02-12,France,Email
+3041,2024-02-20,Spain,Organic
+3042,2024-06-07,Germany,Email
+3043,2024-03-30,Austria,Referral
+3044,2023-08-02,Italy,Organic
+3045,2023-12-19,Germany,Paid Search
+3046,2024-02-10,Poland,Paid Search
+3047,2024-04-26,Netherlands,Organic
+3048,2023-02-26,Netherlands,Social
+3049,2023-04-26,Germany,Social
+3050,2023-07-20,Poland,Organic
+3051,2023-09-04,France,Email
+3052,2024-06-19,Italy,Paid Search
+3053,2023-11-30,Germany,Organic
+3054,2023-09-26,Germany,Referral
+3055,2023-12-01,Austria,Organic
+3056,2024-01-05,UK,Organic
+3057,2023-10-30,Germany,Organic
+3058,2024-03-11,Italy,Paid Search
+3059,2023-06-29,Germany,Paid Search
+3060,2024-02-16,Poland,Social
+3061,2023-03-11,Poland,Paid Search
+3062,2023-06-28,Germany,Social
+3063,2024-09-16,UK,Organic
+3064,2024-02-15,Austria,Paid Search
+3065,2024-05-20,Poland,Referral
+3066,2023-12-21,UK,Email
+3067,2024-01-05,Netherlands,Social
+3068,2024-03-31,UK,Paid Search
+3069,2023-09-18,Germany,Paid Search
+3070,2023-07-09,Netherlands,Email
+3071,2023-06-09,Germany,Email
+3072,2024-01-18,Germany,Social
+3073,2023-03-15,France,Paid Search
+3074,2023-12-27,Italy,Organic
+3075,2024-06-02,Germany,Organic
+3076,2023-06-03,Germany,Organic
+3077,2023-08-18,Germany,Paid Search
+3078,2023-12-11,Germany,Organic
+3079,2023-05-01,Austria,Paid Search
+3080,2023-10-29,France,Social
+3081,2024-01-07,Germany,Social
+3082,2023-09-06,Austria,Social
+3083,2024-01-26,Germany,Organic
+3084,2024-04-30,UK,Paid Search
+3085,2023-05-12,Italy,Referral
+3086,2024-02-04,Spain,Paid Search
+3087,2023-09-03,Germany,Email
+3088,2023-11-12,Spain,Paid Search
+3089,2023-05-16,Netherlands,Social
+3090,2023-12-17,Netherlands,Paid Search
+3091,2023-08-02,Germany,Social
+3092,2023-10-31,Italy,Email
+3093,2023-09-05,UK,Paid Search
+3094,2023-12-04,Spain,Email
+3095,2024-05-15,Poland,Email
+3096,2024-03-08,Italy,Email
+3097,2024-02-22,Spain,Organic
+3098,2023-09-27,Germany,Organic
+3099,2023-09-26,Germany,Email
+3100,2023-02-22,UK,Social
+3101,2023-09-03,Germany,Referral
+3102,2024-02-13,Spain,Organic
+3103,2024-06-07,Spain,Email
+3104,2024-04-08,UK,Email
+3105,2023-03-15,Germany,Email
+3106,2023-04-22,Poland,Social
+3107,2023-08-26,UK,Organic
+3108,2024-07-10,UK,Social
+3109,2023-03-19,UK,Social
+3110,2023-12-15,Germany,Paid Search
+3111,2023-09-30,Spain,Organic
+3112,2023-12-06,Germany,Email
+3113,2023-12-14,UK,Organic
+3114,2023-05-02,Germany,Paid Search
+3115,2023-06-19,Germany,Social
+3116,2023-12-10,Germany,Referral
+3117,2023-09-29,Germany,Social
+3118,2024-02-05,Poland,Paid Search
+3119,2023-08-30,Italy,Organic
+3120,2024-07-16,Germany,Paid Search
+3121,2023-10-04,Germany,Organic
+3122,2024-04-11,Spain,Email
+3123,2023-06-04,Germany,Paid Search
+3124,2023-07-06,France,Organic
+3125,2024-01-11,Germany,Email
+3126,2023-09-08,UK,Organic
+3127,2023-11-05,Austria,Organic
+3128,2024-11-22,Germany,Paid Search
+3129,2024-01-14,Austria,Organic
+3130,2023-10-05,Italy,Organic
+3131,2024-02-01,Austria,Referral
+3132,2024-01-08,Spain,Email
+3133,2024-01-16,Italy,Email
+3134,2023-08-22,UK,Social
+3135,2023-07-26,Italy,Organic
+3136,2023-04-12,Germany,Email
+3137,2023-06-21,Spain,Paid Search
+3138,2023-10-14,Netherlands,Organic
+3139,2024-01-22,Germany,Paid Search
+3140,2024-05-30,Germany,Paid Search
+3141,2023-01-23,Germany,Organic
+3142,2023-02-21,France,Organic
+3143,2023-03-07,Germany,Paid Search
+3144,2024-04-21,Germany,Paid Search
+3145,2024-01-24,Germany,Organic
+3146,2023-10-04,UK,Social
+3147,2023-08-09,Germany,Organic
+3148,2024-01-23,Germany,Social
+3149,2023-06-29,Germany,Organic
+3150,2023-03-24,France,Paid Search
+3151,2024-07-03,Germany,Social
+3152,2023-10-24,Austria,Social
+3153,2023-06-05,Germany,Organic
+3154,2023-08-18,Germany,Paid Search
+3155,2024-03-16,UK,Email
+3156,2024-01-17,Italy,Organic
+3157,2023-06-20,France,Paid Search
+3158,2023-06-23,Germany,Paid Search
+3159,2024-05-11,UK,Email
+3160,2023-12-20,UK,Paid Search
+3161,2024-01-12,France,Referral
+3162,2023-06-19,Austria,Social
+3163,2023-03-11,Austria,Social
+3164,2023-08-04,UK,Organic
+3165,2023-10-09,Germany,Social
+3166,2024-02-12,UK,Organic
+3167,2023-10-11,Austria,Paid Search
+3168,2023-02-03,Poland,Organic
+3169,2024-01-04,Germany,Social
+3170,2023-10-10,Germany,Email
+3171,2023-05-13,Germany,Referral
+3172,2023-12-15,Italy,Organic
+3173,2024-09-05,UK,Email
+3174,2024-04-15,Germany,Email
+3175,2024-05-13,Germany,Email
+3176,2023-06-06,Germany,Social
+3177,2023-12-03,Poland,Organic
+3178,2023-02-12,France,Email
+3179,2023-09-06,Germany,Social
+3180,2023-10-25,Spain,Social
+3181,2023-12-31,Netherlands,Organic
+3182,2024-01-09,Spain,Organic
+3183,2023-12-20,Italy,Organic
+3184,2023-06-22,Germany,Paid Search
+3185,2023-07-30,Germany,Paid Search
+3186,2023-10-03,Germany,Email
+3187,2023-10-05,Spain,Organic
+3188,2024-10-19,Poland,Organic
+3189,2024-03-13,Germany,Paid Search
+3190,2023-06-29,Spain,Organic
+3191,2024-01-23,Spain,Paid Search
+3192,2023-02-12,Austria,Social
+3193,2023-10-03,France,Referral
+3194,2023-05-20,Germany,Organic
+3195,2023-10-29,Spain,Organic
+3196,2023-11-03,Italy,Email
+3197,2024-02-10,Spain,Organic
+3198,2023-12-21,Italy,Social
+3199,2023-01-27,France,Social
+3200,2023-04-01,Netherlands,Email
+3201,2023-08-29,Germany,Organic
+3202,2023-12-09,France,Referral
+3203,2023-08-01,Germany,Referral
+3204,2023-09-26,Germany,Organic
+3205,2023-08-18,Germany,Paid Search
+3206,2023-09-19,Netherlands,Paid Search
+3207,2023-10-02,Poland,Organic
+3208,2023-01-15,Germany,Referral
+3209,2024-05-12,France,Organic
+3210,2023-06-07,Germany,Organic
+3211,2023-07-23,France,Organic
+3212,2024-05-14,Germany,Social
+3213,2023-05-02,UK,Email
+3214,2023-04-17,Poland,Social
+3215,2024-01-02,UK,Social
+3216,2023-06-22,Netherlands,Organic
+3217,2023-10-17,Spain,Social
+3218,2023-08-20,Germany,Paid Search
+3219,2024-03-19,France,Paid Search
+3220,2023-04-14,Germany,Social
+3221,2024-02-08,France,Referral
+3222,2023-11-30,Poland,Social
+3223,2023-07-16,UK,Social
+3224,2023-01-15,France,Paid Search
+3225,2023-04-26,Germany,Organic
+3226,2023-02-05,Germany,Paid Search
+3227,2024-01-20,Poland,Social
+3228,2023-12-13,Germany,Social
+3229,2024-08-08,Spain,Social
+3230,2023-11-02,Germany,Paid Search
+3231,2023-04-15,Germany,Organic
+3232,2023-12-05,Germany,Organic
+3233,2023-10-25,Poland,Social
+3234,2023-12-11,Germany,Referral
+3235,2023-09-28,Spain,Paid Search
+3236,2024-03-16,Germany,Social
+3237,2023-06-26,Netherlands,Social
+3238,2023-11-26,UK,Organic
+3239,2023-07-21,Netherlands,Organic
+3240,2023-08-28,Germany,Organic
+3241,2023-08-06,Germany,Referral
+3242,2023-10-20,Poland,Organic
+3243,2023-11-18,UK,Paid Search
+3244,2023-12-17,Germany,Paid Search
+3245,2023-08-07,France,Social
+3246,2023-10-05,Germany,Organic
+3247,2023-09-04,France,Referral
+3248,2023-04-27,France,Paid Search
+3249,2023-07-03,Germany,Referral
+3250,2023-11-16,France,Social
+3251,2024-06-22,Netherlands,Paid Search
+3252,2023-05-02,Poland,Social
+3253,2023-09-16,Spain,Social
+3254,2024-04-12,UK,Organic
+3255,2023-05-26,Spain,Social
+3256,2023-07-02,Germany,Social
+3257,2023-12-21,Netherlands,Social
+3258,2023-12-13,Germany,Social
+3259,2024-08-20,Germany,Social
+3260,2023-10-09,Netherlands,Paid Search
+3261,2023-11-17,Germany,Paid Search
+3262,2023-09-02,Netherlands,Organic
+3263,2023-10-26,Netherlands,Social
+3264,2023-02-16,Germany,Organic
+3265,2024-01-07,France,Organic
+3266,2023-09-05,Netherlands,Email
+3267,2024-05-07,Spain,Organic
+3268,2023-07-08,Italy,Organic
+3269,2023-07-21,Germany,Email
+3270,2024-02-16,Italy,Social
+3271,2024-01-25,France,Email
+3272,2024-05-19,Germany,Paid Search
+3273,2023-09-26,Netherlands,Social
+3274,2024-03-08,Germany,Referral
+3275,2023-08-10,Germany,Organic
+3276,2024-07-30,Germany,Organic
+3277,2024-04-03,Italy,Organic
+3278,2023-10-01,Poland,Email
+3279,2023-09-27,Austria,Organic
+3280,2023-08-04,Germany,Paid Search
+3281,2023-05-08,France,Paid Search
+3282,2024-02-11,Italy,Referral
+3283,2023-07-25,Germany,Paid Search
+3284,2023-11-18,France,Paid Search
+3285,2023-06-30,Germany,Referral
+3286,2023-03-18,UK,Organic
+3287,2023-11-28,Netherlands,Social
+3288,2023-09-03,Germany,Organic
+3289,2023-09-26,Germany,Organic
+3290,2024-01-28,Spain,Organic
+3291,2023-12-28,Netherlands,Paid Search
+3292,2023-02-25,Germany,Organic
+3293,2023-04-18,Germany,Email
+3294,2023-06-12,Austria,Paid Search
+3295,2023-02-25,Netherlands,Paid Search
+3296,2023-08-30,UK,Social
+3297,2024-02-27,Netherlands,Referral
+3298,2023-09-08,Austria,Paid Search
+3299,2023-05-14,Germany,Organic
+3300,2023-08-16,Germany,Organic
+3301,2023-11-17,France,Email
+3302,2024-05-13,Italy,Email
+3303,2023-08-22,Germany,Paid Search
+3304,2023-11-22,Germany,Organic
+3305,2024-04-18,Germany,Paid Search
+3306,2023-09-10,Netherlands,Social
+3307,2024-07-13,Netherlands,Paid Search
+3308,2023-08-15,France,Organic
+3309,2023-03-30,Germany,Paid Search
+3310,2023-10-24,Spain,Social
+3311,2023-06-03,Germany,Referral
+3312,2023-05-14,Spain,Organic
+3313,2023-12-10,Germany,Referral
+3314,2023-09-17,Poland,Paid Search
+3315,2024-08-16,France,Social
+3316,2023-04-19,Netherlands,Email
+3317,2023-05-17,Germany,Social
+3318,2024-01-30,Germany,Organic
+3319,2023-04-11,Spain,Organic
+3320,2023-11-20,UK,Email
+3321,2023-04-27,Spain,Social
+3322,2024-04-13,UK,Paid Search
+3323,2023-08-07,UK,Social
+3324,2023-07-23,Italy,Organic
+3325,2023-08-17,France,Organic
+3326,2023-08-26,Poland,Email
+3327,2023-04-02,France,Paid Search
+3328,2023-07-02,Germany,Organic
+3329,2023-03-08,Spain,Paid Search
+3330,2023-04-24,Germany,Referral
+3331,2023-10-06,Germany,Organic
+3332,2023-08-19,Germany,Organic
+3333,2024-05-17,UK,Paid Search
+3334,2023-04-11,Netherlands,Organic
+3335,2024-06-19,Germany,Organic
+3336,2023-10-02,Germany,Organic
+3337,2024-04-03,Germany,Organic
+3338,2023-09-25,Germany,Social
+3339,2024-05-04,Germany,Organic
+3340,2024-02-20,Germany,Paid Search
+3341,2023-08-17,Italy,Social
+3342,2023-05-15,Spain,Organic
+3343,2023-02-22,Germany,Organic
+3344,2023-11-17,Germany,Referral
+3345,2023-07-09,Germany,Social
+3346,2024-02-02,France,Social
+3347,2024-06-16,France,Paid Search
+3348,2023-12-15,Poland,Referral
+3349,2023-04-21,Spain,Organic
+3350,2023-06-19,France,Organic
+3351,2023-10-06,Germany,Email
+3352,2024-03-29,Netherlands,Organic
+3353,2023-10-09,Poland,Social
+3354,2024-02-11,Germany,Organic
+3355,2023-05-07,Italy,Paid Search
+3356,2023-06-20,Germany,Social
+3357,2024-04-13,Spain,Paid Search
+3358,2023-08-08,Germany,Social
+3359,2023-11-21,UK,Organic
+3360,2024-04-15,Germany,Organic
+3361,2023-07-06,UK,Social
+3362,2023-07-25,UK,Organic
+3363,2023-05-18,Netherlands,Social
+3364,2023-09-29,Netherlands,Paid Search
+3365,2023-07-09,Germany,Paid Search
+3366,2024-02-24,Spain,Paid Search
+3367,2023-11-20,Germany,Email
+3368,2023-11-24,Netherlands,Paid Search
+3369,2023-09-12,Germany,Organic
+3370,2023-04-05,France,Referral
+3371,2024-02-11,France,Organic
+3372,2023-11-26,Austria,Email
+3373,2023-08-08,Netherlands,Organic
+3374,2023-11-30,Germany,Paid Search
+3375,2023-06-02,Spain,Paid Search
+3376,2024-01-03,Germany,Organic
+3377,2024-05-27,Germany,Social
+3378,2023-10-09,France,Organic
+3379,2023-09-05,Spain,Paid Search
+3380,2023-08-03,Austria,Email
+3381,2024-07-01,Poland,Social
+3382,2023-06-23,Germany,Paid Search
+3383,2023-08-23,Germany,Paid Search
+3384,2023-10-10,Italy,Organic
+3385,2023-03-14,Germany,Referral
+3386,2023-09-22,UK,Social
+3387,2024-05-09,Austria,Social
+3388,2023-03-20,Germany,Paid Search
+3389,2023-06-23,France,Paid Search
+3390,2023-07-18,Italy,Organic
+3391,2023-05-17,Netherlands,Organic
+3392,2023-05-20,Poland,Paid Search
+3393,2023-07-06,Netherlands,Organic
+3394,2024-04-18,Germany,Organic
+3395,2023-06-03,Italy,Paid Search
+3396,2023-05-24,Spain,Paid Search
+3397,2023-07-02,Poland,Paid Search
+3398,2024-08-08,France,Email
+3399,2024-01-01,UK,Social
+3400,2023-12-01,Germany,Organic
+3401,2024-05-06,Germany,Email
+3402,2023-07-24,Austria,Paid Search
+3403,2023-09-07,Austria,Paid Search
+3404,2023-02-15,UK,Email
+3405,2023-11-18,Austria,Organic
+3406,2023-09-19,France,Social
+3407,2024-01-25,Italy,Organic
+3408,2023-04-29,Netherlands,Organic
+3409,2024-07-03,Spain,Paid Search
+3410,2024-07-12,Spain,Organic
+3411,2023-07-09,Netherlands,Organic
+3412,2023-03-22,Italy,Paid Search
+3413,2023-08-10,France,Paid Search
+3414,2024-05-10,Italy,Paid Search
+3415,2024-05-04,Germany,Organic
+3416,2024-05-14,Germany,Paid Search
+3417,2024-05-09,Spain,Paid Search
+3418,2023-04-24,Spain,Paid Search
+3419,2023-04-04,Poland,Social
+3420,2023-05-28,Germany,Referral
+3421,2024-03-06,Germany,Organic
+3422,2024-03-11,UK,Paid Search
+3423,2024-01-21,Poland,Email
+3424,2023-10-11,Austria,Social
+3425,2023-03-13,Italy,Referral
+3426,2023-07-01,UK,Social
+3427,2024-01-05,Italy,Social
+3428,2023-06-09,Germany,Organic
+3429,2023-07-16,Poland,Organic
+3430,2024-01-05,UK,Social
+3431,2023-12-09,France,Paid Search
+3432,2023-12-12,UK,Email
+3433,2023-11-24,Spain,Referral
+3434,2023-11-04,Germany,Organic
+3435,2024-04-30,Germany,Paid Search
+3436,2023-06-16,Spain,Email
+3437,2023-10-05,Austria,Email
+3438,2023-05-31,Netherlands,Email
+3439,2023-02-27,Germany,Social
+3440,2023-09-12,Netherlands,Referral
+3441,2024-11-28,Germany,Paid Search
+3442,2023-10-02,Germany,Organic
+3443,2023-07-25,Germany,Organic
+3444,2023-06-18,UK,Paid Search
+3445,2024-06-29,Germany,Email
+3446,2023-07-31,Germany,Paid Search
+3447,2024-06-17,Germany,Social
+3448,2023-09-22,Netherlands,Paid Search
+3449,2023-03-19,Germany,Social
+3450,2024-01-07,Germany,Organic
+3451,2023-05-12,UK,Paid Search
+3452,2023-04-11,Spain,Organic
+3453,2023-12-06,Italy,Paid Search
+3454,2023-10-15,France,Paid Search
+3455,2023-10-10,Spain,Social
+3456,2023-12-02,Italy,Paid Search
+3457,2023-08-02,Netherlands,Referral
+3458,2024-01-06,UK,Referral
+3459,2023-06-30,Germany,Organic
+3460,2024-01-11,Germany,Organic
+3461,2024-04-24,Germany,Organic
+3462,2023-09-29,France,Organic
+3463,2024-02-29,Austria,Organic
+3464,2023-08-29,Germany,Email
+3465,2024-01-08,UK,Referral
+3466,2023-12-30,Austria,Organic
+3467,2023-04-22,Netherlands,Email
+3468,2024-03-15,Germany,Email
+3469,2024-02-08,Austria,Paid Search
+3470,2023-04-17,Germany,Email
+3471,2023-05-20,Germany,Referral
+3472,2023-08-31,France,Referral
+3473,2023-08-04,Germany,Social
+3474,2024-02-23,Italy,Paid Search
+3475,2023-09-12,Germany,Organic
+3476,2023-09-08,Italy,Referral
+3477,2023-05-21,Germany,Organic
+3478,2023-05-08,Poland,Paid Search
+3479,2023-05-05,Germany,Organic
+3480,2023-07-06,Poland,Paid Search
+3481,2023-06-30,Germany,Organic
+3482,2023-10-06,Poland,Email
+3483,2023-10-30,Italy,Paid Search
+3484,2024-05-20,UK,Paid Search
+3485,2023-01-27,Germany,Paid Search
+3486,2023-02-04,Netherlands,Social
+3487,2023-07-23,Netherlands,Email
+3488,2023-06-30,UK,Referral
+3489,2024-06-29,Netherlands,Email
+3490,2023-11-13,Austria,Paid Search
+3491,2023-07-18,Austria,Email
+3492,2023-10-05,UK,Paid Search
+3493,2024-03-02,Germany,Social
+3494,2023-09-06,Germany,Social
+3495,2024-02-17,Spain,Paid Search
+3496,2023-08-23,Austria,Paid Search
+3497,2023-12-14,France,Social
+3498,2023-12-24,Germany,Paid Search
+3499,2023-12-24,France,Social
+3500,2023-02-20,France,Paid Search
+3501,2024-01-02,Austria,Social
+3502,2023-05-28,Netherlands,Email
+3503,2023-06-07,Germany,Organic
+3504,2023-07-29,Germany,Organic
+3505,2023-08-15,Germany,Social
+3506,2024-01-05,Netherlands,Organic
+3507,2023-04-04,Netherlands,Organic
+3508,2024-07-01,Germany,Social
+3509,2023-10-12,Germany,Organic
+3510,2024-02-21,Poland,Social
+3511,2023-04-05,Italy,Organic
+3512,2023-04-07,UK,Organic
+3513,2023-10-13,UK,Paid Search
+3514,2024-11-03,Austria,Referral
+3515,2024-05-24,Spain,Paid Search
+3516,2024-08-18,Austria,Paid Search
+3517,2023-11-02,Germany,Paid Search
+3518,2023-02-25,Germany,Social
+3519,2023-06-13,Germany,Social
+3520,2023-06-19,Italy,Organic
+3521,2023-08-18,Netherlands,Organic
+3522,2024-01-13,Germany,Paid Search
+3523,2023-07-04,Austria,Social
+3524,2023-08-18,Austria,Email
+3525,2024-04-02,Germany,Social
+3526,2024-03-27,Netherlands,Social
+3527,2023-12-16,Netherlands,Paid Search
+3528,2024-04-22,Germany,Social
+3529,2024-01-29,Netherlands,Social
+3530,2024-05-22,Germany,Organic
+3531,2023-07-20,Poland,Referral
+3532,2023-12-25,Italy,Paid Search
+3533,2023-12-28,Poland,Social
+3534,2023-10-17,Spain,Social
+3535,2023-10-27,Germany,Email
+3536,2024-04-23,France,Organic
+3537,2023-07-07,Spain,Email
+3538,2023-08-06,Germany,Organic
+3539,2024-03-04,Spain,Organic
+3540,2023-12-08,Germany,Email
+3541,2024-03-01,Germany,Organic
+3542,2023-05-18,UK,Social
+3543,2023-04-30,Netherlands,Paid Search
+3544,2024-01-10,UK,Referral
+3545,2023-05-23,Netherlands,Email
+3546,2023-09-15,France,Paid Search
+3547,2024-02-23,Spain,Email
+3548,2023-11-13,Netherlands,Organic
+3549,2023-06-28,UK,Social
+3550,2023-11-05,France,Email
+3551,2024-05-12,UK,Social
+3552,2023-10-23,Germany,Social
+3553,2023-02-01,Netherlands,Email
+3554,2023-10-09,Germany,Social
+3555,2023-11-06,Italy,Referral
+3556,2024-02-09,Italy,Organic
+3557,2024-01-23,UK,Paid Search
+3558,2023-12-30,Italy,Email
+3559,2023-11-16,Netherlands,Paid Search
+3560,2023-05-10,Germany,Paid Search
+3561,2023-05-23,Spain,Email
+3562,2023-09-19,Austria,Paid Search
+3563,2023-03-06,Germany,Organic
+3564,2024-01-15,Germany,Organic
+3565,2023-06-13,UK,Paid Search
+3566,2023-04-27,France,Paid Search
+3567,2024-01-27,Netherlands,Organic
+3568,2023-05-12,UK,Email
+3569,2023-12-05,Spain,Organic
+3570,2024-05-03,Germany,Email
+3571,2023-05-28,France,Referral
+3572,2023-07-16,Italy,Paid Search
+3573,2023-05-18,France,Referral
+3574,2024-03-07,UK,Organic
+3575,2023-10-04,Germany,Social
+3576,2023-06-30,Germany,Referral
+3577,2024-03-02,France,Email
+3578,2023-09-04,France,Organic
+3579,2023-05-12,Spain,Organic
+3580,2023-08-02,Netherlands,Organic
+3581,2023-08-26,Poland,Referral
+3582,2023-03-18,Italy,Organic
+3583,2023-02-23,Germany,Paid Search
+3584,2024-02-12,Germany,Paid Search
+3585,2023-04-25,Italy,Paid Search
+3586,2024-01-05,Germany,Paid Search
+3587,2023-11-27,France,Paid Search
+3588,2024-04-23,Germany,Social
+3589,2023-10-08,Netherlands,Paid Search
+3590,2023-08-23,Germany,Paid Search
+3591,2023-07-18,Germany,Paid Search
+3592,2023-06-22,UK,Paid Search
+3593,2023-07-17,Spain,Email
+3594,2023-11-08,Germany,Paid Search
+3595,2024-01-08,Spain,Paid Search
+3596,2023-03-04,France,Organic
+3597,2023-11-30,France,Organic
+3598,2023-06-30,France,Email
+3599,2024-05-26,Germany,Email
+3600,2023-10-12,Germany,Organic
+3601,2023-03-22,Poland,Paid Search
+3602,2023-12-06,Germany,Paid Search
+3603,2023-03-30,Austria,Social
+3604,2023-05-14,Germany,Organic
+3605,2023-09-03,France,Referral
+3606,2023-06-01,UK,Organic
+3607,2023-12-29,Italy,Referral
+3608,2023-08-27,Germany,Organic
+3609,2023-05-29,Germany,Paid Search
+3610,2023-10-28,Netherlands,Organic
+3611,2023-05-02,Germany,Organic
+3612,2023-11-02,Netherlands,Referral
+3613,2023-01-26,Italy,Paid Search
+3614,2023-02-23,Germany,Organic
+3615,2023-10-15,Italy,Referral
+3616,2024-03-23,Germany,Organic
+3617,2023-11-02,Poland,Organic
+3618,2023-05-07,Austria,Organic
+3619,2023-06-19,Netherlands,Paid Search
+3620,2023-05-19,Austria,Referral
+3621,2023-06-30,Italy,Organic
+3622,2023-08-02,Germany,Social
+3623,2024-08-06,Germany,Organic
+3624,2024-03-02,Germany,Organic
+3625,2023-10-27,France,Social
+3626,2023-09-21,Netherlands,Social
+3627,2023-12-11,UK,Social
+3628,2023-05-12,Netherlands,Organic
+3629,2023-08-23,France,Organic
+3630,2024-02-18,Germany,Social
+3631,2023-08-01,Germany,Social
+3632,2023-03-28,Austria,Paid Search
+3633,2023-08-24,France,Organic
+3634,2023-12-08,Germany,Email
+3635,2023-07-26,Germany,Organic
+3636,2024-01-24,Austria,Social
+3637,2023-05-01,Germany,Social
+3638,2023-10-01,Netherlands,Organic
+3639,2024-03-05,Germany,Paid Search
+3640,2023-07-09,Germany,Paid Search
+3641,2023-12-17,Spain,Social
+3642,2023-12-23,Netherlands,Referral
+3643,2023-04-13,Netherlands,Paid Search
+3644,2023-06-24,Germany,Organic
+3645,2023-10-13,Austria,Paid Search
+3646,2023-10-01,UK,Social
+3647,2024-10-06,Austria,Paid Search
+3648,2023-10-25,Germany,Email
+3649,2023-09-17,France,Organic
+3650,2023-09-06,Germany,Organic
+3651,2023-06-25,Spain,Organic
+3652,2024-01-11,Spain,Email
+3653,2024-02-17,UK,Social
+3654,2023-07-07,Germany,Paid Search
+3655,2023-05-21,Germany,Paid Search
+3656,2024-01-13,Germany,Referral
+3657,2023-09-12,Italy,Email
+3658,2024-02-29,Germany,Paid Search
+3659,2024-09-16,Germany,Email
+3660,2024-03-02,France,Referral
+3661,2023-12-30,Germany,Paid Search
+3662,2023-12-14,Austria,Paid Search
+3663,2024-04-15,Germany,Paid Search
+3664,2024-07-21,Poland,Paid Search
+3665,2023-08-04,Netherlands,Email
+3666,2023-12-21,UK,Paid Search
+3667,2023-03-17,France,Organic
+3668,2023-10-26,Netherlands,Paid Search
+3669,2024-08-14,Netherlands,Social
+3670,2024-09-02,Germany,Organic
+3671,2023-09-24,Poland,Paid Search
+3672,2023-12-21,France,Organic
+3673,2023-11-01,France,Email
+3674,2023-07-07,France,Organic
+3675,2023-06-30,Netherlands,Organic
+3676,2023-03-17,France,Email
+3677,2023-04-09,France,Organic
+3678,2023-12-29,Germany,Social
+3679,2023-09-05,France,Paid Search
+3680,2023-04-21,Germany,Email
+3681,2024-05-23,Italy,Organic
+3682,2024-04-18,Germany,Organic
+3683,2023-06-19,Austria,Organic
+3684,2023-12-01,Netherlands,Referral
+3685,2023-07-11,Spain,Email
+3686,2024-04-15,Austria,Organic
+3687,2023-08-16,Germany,Organic
+3688,2024-05-04,UK,Organic
+3689,2024-02-21,Germany,Organic
+3690,2023-12-12,Germany,Organic
+3691,2024-02-29,France,Email
+3692,2023-03-17,Netherlands,Organic
+3693,2023-07-24,Italy,Email
+3694,2024-01-27,Germany,Organic
+3695,2024-04-06,Spain,Email
+3696,2024-05-09,Germany,Paid Search
+3697,2023-02-25,Germany,Organic
+3698,2023-09-12,Germany,Email
+3699,2023-05-05,UK,Organic
+3700,2023-03-08,UK,Email
+3701,2023-11-29,Germany,Email
+3702,2023-05-03,Germany,Referral
+3703,2023-11-16,UK,Email
+3704,2023-07-26,Italy,Organic
+3705,2023-12-12,Germany,Paid Search
+3706,2024-02-04,Spain,Social
+3707,2023-09-10,Netherlands,Paid Search
+3708,2023-05-24,France,Paid Search
+3709,2024-03-30,Germany,Organic
+3710,2023-03-22,Poland,Social
+3711,2023-05-09,France,Paid Search
+3712,2023-07-19,France,Organic
+3713,2023-03-29,Italy,Referral
+3714,2023-02-22,Italy,Email
+3715,2024-02-10,Spain,Paid Search
+3716,2024-03-23,Italy,Organic
+3717,2023-10-14,Germany,Social
+3718,2023-08-13,Spain,Organic
+3719,2023-08-08,Germany,Social
+3720,2024-01-13,Italy,Email
+3721,2023-02-20,France,Organic
+3722,2023-06-17,Germany,Organic
+3723,2023-07-11,France,Organic
+3724,2023-09-03,Spain,Paid Search
+3725,2023-12-22,UK,Social
+3726,2023-04-29,Spain,Organic
+3727,2024-05-08,Germany,Referral
+3728,2023-07-02,Germany,Social
+3729,2023-07-16,UK,Organic
+3730,2024-02-08,France,Paid Search
+3731,2023-07-29,Netherlands,Paid Search
+3732,2023-11-11,Austria,Paid Search
+3733,2023-08-01,Netherlands,Social
+3734,2023-03-01,France,Organic
+3735,2023-11-19,UK,Organic
+3736,2023-03-15,Poland,Organic
+3737,2024-05-02,Netherlands,Organic
+3738,2024-05-13,Italy,Social
+3739,2023-07-19,Germany,Referral
+3740,2024-05-01,Spain,Social
+3741,2023-05-07,Germany,Referral
+3742,2023-07-01,Spain,Social
+3743,2023-09-26,Poland,Organic
+3744,2023-04-17,Poland,Email
+3745,2023-02-05,Germany,Organic
+3746,2023-11-20,Italy,Organic
+3747,2023-10-17,Germany,Referral
+3748,2024-02-11,France,Social
+3749,2024-02-07,Netherlands,Referral
+3750,2023-12-03,UK,Organic
+3751,2024-07-02,Germany,Email
+3752,2023-04-14,Netherlands,Organic
+3753,2024-01-30,Netherlands,Paid Search
+3754,2024-01-01,UK,Email
+3755,2023-08-30,UK,Paid Search
+3756,2023-12-23,Spain,Social
+3757,2023-07-03,France,Email
+3758,2024-03-27,Germany,Email
+3759,2024-08-31,UK,Organic
+3760,2023-10-02,Spain,Organic
+3761,2023-12-06,Germany,Referral
+3762,2023-04-19,Germany,Social
+3763,2023-11-27,Poland,Paid Search
+3764,2023-04-29,Italy,Organic
+3765,2023-06-19,Netherlands,Organic
+3766,2023-11-18,Spain,Referral
+3767,2023-10-03,Austria,Paid Search
+3768,2023-06-22,UK,Email
+3769,2024-10-20,Germany,Organic
+3770,2023-09-11,Netherlands,Organic
+3771,2023-10-13,Poland,Social
+3772,2023-07-22,Netherlands,Email
+3773,2023-07-11,Germany,Organic
+3774,2023-09-26,Poland,Paid Search
+3775,2023-09-25,Spain,Social
+3776,2023-10-29,France,Organic
+3777,2024-03-19,Austria,Paid Search
+3778,2023-07-20,Spain,Social
+3779,2023-08-28,Italy,Organic
+3780,2023-05-30,Austria,Social
+3781,2023-08-01,Germany,Organic
+3782,2024-05-09,Spain,Social
+3783,2023-04-18,France,Email
+3784,2023-02-24,Italy,Email
+3785,2024-03-29,Poland,Social
+3786,2023-01-15,Italy,Social
+3787,2023-11-15,Spain,Paid Search
+3788,2024-08-04,Italy,Paid Search
+3789,2023-09-17,Germany,Organic
+3790,2023-08-19,France,Social
+3791,2023-11-25,Germany,Organic
+3792,2023-02-02,Italy,Paid Search
+3793,2023-04-18,Netherlands,Paid Search
+3794,2023-09-13,Netherlands,Social
+3795,2023-11-05,Germany,Paid Search
+3796,2023-03-31,Netherlands,Paid Search
+3797,2023-09-16,France,Social
+3798,2024-09-08,Austria,Referral
+3799,2023-08-16,Italy,Social
+3800,2024-08-13,UK,Organic
+3801,2024-04-04,Italy,Email
+3802,2023-07-21,Germany,Organic
+3803,2024-05-24,Germany,Organic
+3804,2023-10-29,Netherlands,Organic
+3805,2023-08-05,Spain,Paid Search
+3806,2023-08-07,Germany,Social
+3807,2023-03-04,Germany,Paid Search
+3808,2023-06-14,UK,Email
+3809,2023-02-24,Germany,Social
+3810,2024-10-02,France,Organic
+3811,2024-03-11,UK,Paid Search
+3812,2023-10-17,Poland,Social
+3813,2024-09-05,Germany,Paid Search
+3814,2023-09-24,Germany,Paid Search
+3815,2023-11-16,Germany,Paid Search
+3816,2023-02-07,Germany,Paid Search
+3817,2023-12-10,Spain,Paid Search
+3818,2023-06-10,France,Email
+3819,2024-06-09,Germany,Organic
+3820,2023-09-28,Poland,Organic
+3821,2023-05-07,Spain,Social
+3822,2023-08-25,Germany,Email
+3823,2024-07-09,Germany,Social
+3824,2024-01-06,Italy,Paid Search
+3825,2024-10-25,Netherlands,Referral
+3826,2024-10-11,Austria,Paid Search
+3827,2023-09-06,Germany,Paid Search
+3828,2024-01-15,Spain,Social
+3829,2023-03-28,Germany,Paid Search
+3830,2023-01-24,Germany,Social
+3831,2023-12-21,Spain,Referral
+3832,2023-08-17,Spain,Organic
+3833,2023-04-26,Germany,Organic
+3834,2023-06-18,Germany,Paid Search
+3835,2023-07-03,Spain,Paid Search
+3836,2023-10-30,Germany,Social
+3837,2023-10-26,Germany,Referral
+3838,2023-09-25,Germany,Social
+3839,2024-03-01,Germany,Referral
+3840,2024-06-06,Italy,Organic
+3841,2023-10-27,Germany,Organic
+3842,2023-06-10,UK,Paid Search
+3843,2023-05-24,Netherlands,Email
+3844,2023-04-26,Germany,Organic
+3845,2023-03-22,Netherlands,Organic
+3846,2023-05-05,Germany,Paid Search
+3847,2023-04-02,Italy,Paid Search
+3848,2024-02-25,Italy,Social
+3849,2023-09-10,Italy,Email
+3850,2023-09-20,France,Organic
+3851,2023-05-31,Italy,Paid Search
+3852,2023-04-10,Netherlands,Organic
+3853,2023-02-21,France,Organic
+3854,2023-07-17,Germany,Paid Search
+3855,2024-01-04,Germany,Social
+3856,2024-02-09,Germany,Social
+3857,2023-05-15,Germany,Social
+3858,2023-07-30,Poland,Email
+3859,2023-09-30,Austria,Organic
+3860,2024-02-14,Germany,Social
+3861,2024-01-11,Austria,Social
+3862,2024-09-02,Spain,Organic
+3863,2023-08-31,UK,Paid Search
+3864,2023-04-15,Austria,Organic
+3865,2023-09-19,Spain,Organic
+3866,2023-11-06,UK,Organic
+3867,2024-07-09,Germany,Organic
+3868,2023-07-19,Germany,Referral
+3869,2024-08-25,Poland,Email
+3870,2023-08-17,Germany,Social
+3871,2023-12-11,Germany,Social
+3872,2024-01-26,Germany,Referral
+3873,2023-08-08,UK,Paid Search
+3874,2023-02-16,France,Paid Search
+3875,2023-04-18,Poland,Social
+3876,2023-02-22,France,Referral
+3877,2023-04-02,Poland,Email
+3878,2023-03-28,UK,Organic
+3879,2023-11-30,UK,Social
+3880,2024-04-25,Germany,Organic
+3881,2023-04-06,Germany,Organic
+3882,2024-02-28,Italy,Paid Search
+3883,2023-05-26,Spain,Social
+3884,2023-04-13,France,Organic
+3885,2023-12-23,Poland,Paid Search
+3886,2024-06-08,Italy,Social
+3887,2023-05-07,Germany,Organic
+3888,2023-10-01,UK,Email
+3889,2023-03-18,Italy,Paid Search
+3890,2024-01-21,Italy,Social
+3891,2023-05-01,Germany,Organic
+3892,2024-01-01,Germany,Referral
+3893,2023-11-04,France,Referral
+3894,2023-03-18,Germany,Organic
+3895,2023-12-08,Germany,Social
+3896,2024-05-20,Netherlands,Email
+3897,2023-05-16,UK,Organic
+3898,2023-07-27,Germany,Social
+3899,2023-02-23,UK,Email
+3900,2023-08-05,Germany,Paid Search
+3901,2024-01-10,France,Referral
+3902,2023-07-30,Italy,Organic
+3903,2023-12-18,Poland,Referral
+3904,2023-10-26,Germany,Referral
+3905,2023-08-02,Italy,Organic
+3906,2023-11-26,Poland,Paid Search
+3907,2023-09-17,UK,Social
+3908,2023-11-30,Austria,Email
+3909,2023-07-30,Germany,Organic
+3910,2024-01-31,Germany,Paid Search
+3911,2024-04-29,Italy,Email
+3912,2023-07-15,UK,Paid Search
+3913,2023-03-07,France,Social
+3914,2023-06-29,Germany,Social
+3915,2023-08-12,Germany,Referral
+3916,2023-11-15,Germany,Organic
+3917,2023-07-07,Germany,Referral
+3918,2024-05-15,Austria,Social
+3919,2024-04-26,Germany,Referral
+3920,2023-12-17,Italy,Organic
+3921,2024-03-28,Germany,Social
+3922,2024-02-29,Germany,Email
+3923,2023-07-15,Poland,Email
+3924,2023-06-22,Germany,Organic
+3925,2023-10-31,Germany,Paid Search
+3926,2023-06-04,Italy,Organic
+3927,2023-10-08,Germany,Organic
+3928,2023-09-26,Germany,Social
+3929,2023-07-13,Austria,Referral
+3930,2023-04-03,France,Social
+3931,2023-08-21,Netherlands,Organic
+3932,2023-06-23,Germany,Organic
+3933,2023-06-25,Germany,Paid Search
+3934,2023-12-01,France,Organic
+3935,2023-08-15,Netherlands,Email
+3936,2023-12-10,Germany,Organic
+3937,2023-04-02,Poland,Organic
+3938,2023-12-18,Spain,Social
+3939,2023-06-23,UK,Organic
+3940,2023-05-04,France,Paid Search
+3941,2023-06-25,Netherlands,Paid Search
+3942,2023-05-30,Spain,Organic
+3943,2023-07-08,Germany,Social
+3944,2024-06-19,Italy,Paid Search
+3945,2023-04-27,UK,Social
+3946,2023-10-09,Poland,Organic
+3947,2024-02-08,Austria,Paid Search
+3948,2023-12-31,Germany,Social
+3949,2023-03-20,France,Organic
+3950,2023-09-01,UK,Organic
+3951,2023-03-25,UK,Organic
+3952,2024-09-16,Italy,Organic
+3953,2024-01-20,Germany,Organic
+3954,2023-07-18,Netherlands,Referral
+3955,2023-09-09,Austria,Paid Search
+3956,2023-03-12,Austria,Paid Search
+3957,2024-06-11,Germany,Organic
+3958,2023-07-25,Austria,Organic
+3959,2023-08-23,Germany,Email
+3960,2023-03-05,UK,Social
+3961,2023-12-23,Germany,Referral
+3962,2023-03-23,UK,Organic
+3963,2024-03-31,Germany,Organic
+3964,2023-06-18,Germany,Social
+3965,2023-08-17,Germany,Paid Search
+3966,2023-07-25,Poland,Organic
+3967,2023-08-14,UK,Paid Search
+3968,2023-12-24,Spain,Organic
+3969,2023-09-05,Netherlands,Email
+3970,2024-03-18,France,Email
+3971,2024-07-12,Germany,Social
+3972,2023-03-23,Germany,Paid Search
+3973,2023-05-31,France,Email
+3974,2023-09-22,Austria,Social
+3975,2023-08-13,Germany,Email
+3976,2024-08-11,Netherlands,Paid Search
+3977,2024-02-29,Italy,Referral
+3978,2023-10-06,Poland,Organic
+3979,2023-10-25,Germany,Social
+3980,2023-08-25,Poland,Email
+3981,2023-06-05,UK,Email
+3982,2023-09-04,UK,Referral
+3983,2023-11-14,Spain,Paid Search
+3984,2023-09-02,Germany,Social
+3985,2023-09-21,Italy,Organic
+3986,2024-07-04,Netherlands,Social
+3987,2023-02-27,Italy,Organic
+3988,2023-01-17,Italy,Paid Search
+3989,2024-02-06,Netherlands,Referral
+3990,2024-04-30,Germany,Email
+3991,2023-05-21,Germany,Paid Search
+3992,2023-09-03,Poland,Organic
+3993,2023-09-02,Netherlands,Paid Search
+3994,2023-07-21,Poland,Organic
+3995,2023-05-09,France,Organic
+3996,2023-08-04,UK,Referral
+3997,2023-07-25,Italy,Paid Search
+3998,2024-05-15,Spain,Organic
+3999,2023-10-17,France,Social
+4000,2023-10-05,Germany,Organic
