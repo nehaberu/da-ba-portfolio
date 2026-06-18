@@ -1,0 +1,44 @@
+================================================================
+ETL PIPELINE  |  raw_sales.csv -> clean_sales.csv
+================================================================
+
+--- BEFORE cleaning ---
+rows: 2,575   columns: 9
+exact duplicate rows: 75
+missing values by column:
+  email         :  140 (5.4%)
+  category      :   91 (3.5%)
+  quantity      :   72 (2.8%)
+  unit_price    :  135 (5.2%)
+  customer_age  :  121 (4.7%)
+
+--- TRANSFORM steps ---
+1. dropped 75 exact duplicate rows
+2. standardised country to 5 canonical values (0 left missing/unmapped)
+3. parsed mixed date formats -> ISO datetime (0 unparseable)
+4. stripped currency symbols/separators from unit_price -> float
+5. enforced ranges: nulled 57 non-positive quantities, 34 impossible ages
+6. trimmed/normalised names & emails (138 emails fail format check)
+7. imputed 132 missing unit_price values with category median; added revenue column
+
+--- AFTER cleaning ---
+rows: 2,500   columns: 10
+exact duplicate rows: 0
+missing values by column:
+  email         :  138 (5.5%)
+  category      :   91 (3.6%)
+  quantity      :  128 (5.1%)
+  unit_price    :    4 (0.2%)
+  customer_age  :  152 (6.1%)
+  revenue       :  254 (10.2%)
+
+--- VALIDATE (quality gates) ---
+  [PASS] no duplicate rows
+  [PASS] all countries canonical
+  [PASS] quantities positive or null
+  [PASS] ages within 18-100 or null
+  [PASS] dates parsed
+
+LOAD: wrote /Users/nehaberu/da-ba-portfolio/05-data-cleaning-etl/data/clean_sales.csv
+  rows in: 2,575  ->  rows out: 2,500
+  overall completeness: 96.9%
