@@ -27,7 +27,7 @@ customers? Are we keeping them?* — using nothing but SQL.
 └── retail.db                 # SQLite database (created by generate_data.py)
 ```
 
-## 🗄️ Data model
+##  Data model
 
 ```
 customers ──< orders ──< order_items >── products
@@ -60,7 +60,7 @@ customers ──< orders ──< order_items >── products
 
 ---
 
-## 🧠 SQL techniques demonstrated
+##  SQL techniques
 
 | Technique | Where |
 |-----------|-------|
