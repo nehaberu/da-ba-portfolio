@@ -1,18 +1,12 @@
-# 🧪 A/B Test Analysis — Checkout Experiment
+#  A/B Test Analysis — Checkout Experiment
 
 A full **experimentation analysis**: an e-commerce store tests a new **one-page checkout**
 (treatment) against its current **multi-step checkout** (control) across **40,000 user
 sessions**, and we decide — with statistics — whether to ship it.
 
-> **Why this project matters in an interview:** A/B testing is one of the most common
-> Data/Business Analyst interview topics. This shows you can run an experiment end to end:
-> sanity-check the data, test for significance the *right* way, quantify uncertainty with
-> confidence intervals, check **statistical power**, guard against vanity metrics, and give
-> a clear **ship / no-ship** recommendation.
-
 ---
 
-## 📁 Project structure
+##  Project structure
 
 ```
 04-ab-test-analysis/
@@ -25,17 +19,9 @@ sessions**, and we decide — with statistics — whether to ship it.
 └── requirements.txt
 ```
 
-## ▶️ How to run
-
-```bash
-pip install -r requirements.txt
-python data/generate_experiment.py   # creates data/experiment.csv
-python ab_test_analysis.py           # prints the analysis + writes the figure
-```
-
 ---
 
-## 🔬 What the analysis does
+## What the analysis does
 
 1. **Sanity checks** — group summary + a **Sample-Ratio-Mismatch (SRM)** test to confirm
    random assignment really was ~50/50 (a check most beginners skip).
@@ -52,7 +38,7 @@ python ab_test_analysis.py           # prints the analysis + writes the figure
 
 ---
 
-## 📊 Result
+## Result
 
 | Metric | Control | Treatment | Lift |
 |--------|--------:|----------:|-----:|
@@ -66,9 +52,7 @@ python ab_test_analysis.py           # prints the analysis + writes the figure
 - The lift holds on **desktop and mobile**; on tablet it's directionally positive but not
   significant (small sample) — worth a follow-up.
 
-**Decision: SHIP the one-page checkout**, roll out to 100% with a small holdback to watch
-for novelty effects.
 
 ![A/B results](figures/01_ab_results.png)
 
-*Dataset is fully synthetic, generated from a known ground-truth effect with a fixed seed.*
+
