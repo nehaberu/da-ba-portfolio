@@ -1,18 +1,13 @@
-# 🛒 Retail Sales SQL Analytics
+# Retail Sales SQL Analytics
 
 End-to-end **SQL analysis** of a synthetic European e-commerce retailer (~4,000 customers,
 18,000 orders, 30,000 order lines across 2023–2024). The project answers the questions a
 business stakeholder actually asks — *Is revenue growing? What sells? Who are our best
 customers? Are we keeping them?* — using nothing but SQL.
 
-> **Why this project matters in an interview:** it demonstrates the full SQL toolkit that
-> Data/Business Analyst roles screen for — multi-table `JOIN`s, `CTE`s, window functions
-> (`LAG`, `RANK`, `NTILE`, running totals), date arithmetic, and two textbook analytics
-> patterns (**RFM segmentation** and **cohort retention**).
-
 ---
 
-## 📁 Project structure
+## Project structure
 
 ```
 01-retail-sales-sql/
@@ -49,20 +44,7 @@ customers ──< orders ──< order_items >── products
 
 ---
 
-## ▶️ How to run
-
-```bash
-pip install pandas numpy            # only needed to (re)generate data + pretty-print
-python data/generate_data.py        # builds retail.db
-python run_queries.py               # runs all 5 query files
-python run_queries.py 04            # run just the RFM query
-
-# ...or open retail.db in any SQL client / DB Browser for SQLite and run the .sql files
-```
-
----
-
-## 📊 Key findings
+## Key findings
 
 - **Strong, steady growth.** Monthly revenue climbed from a near-zero launch to **€460k by
   Dec 2024**, with total revenue of **€5.6M** across the period and an **average order value of €355**.
@@ -89,4 +71,3 @@ python run_queries.py 04            # run just the RFM query
 | `NTILE()` quintile scoring + `CASE` segmentation | 04 (RFM) |
 | First-touch cohort + month-offset retention | 05 |
 
-*Dataset is fully synthetic and generated with a fixed random seed — no real customer data.*
