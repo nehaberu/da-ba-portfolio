@@ -1,7 +1,7 @@
-# 📈 Data & Business Analyst Portfolio
+# Data & Business Analyst Portfolio
 
 
-## 🗂️ The projects
+## The projects
 
 | # | Project | What it proves | Stack |
 |---|---------|----------------|-------|
@@ -15,7 +15,7 @@
 A common **retail/commerce thread** runs through the projects
 ---
 
-## 🧰 Skills demonstrated
+## Skills 
 
 - **SQL:** multi-table joins, CTEs, `LAG`/`RANK`/`NTILE`, running totals, cohort & RFM analysis
 - **Python:** pandas data wrangling, EDA, matplotlib visualisation
