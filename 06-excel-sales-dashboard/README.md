@@ -1,4 +1,4 @@
-# 📊 Excel Sales Dashboard
+# Excel Sales Dashboard
 
 A **formula-driven Excel dashboard** built programmatically from a clean transactional
 sales table. Excel appears in almost every Data/Business Analyst job description — this
