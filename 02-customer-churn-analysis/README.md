@@ -1,18 +1,13 @@
-# 📉 Customer Churn Analysis
+# Customer Churn Analysis
 
 An end-to-end **analytics + machine-learning** study of why telecom customers leave,
-using a synthetic dataset of **7,000 customers** (~30% churn rate). The notebook-style
-script goes from raw data → EDA → a predictive model → **business recommendations** —
+using a synthetic dataset of **7,000 customers** (~30% churn rate). The script goes from 
+raw data → EDA → a predictive model → **business recommendations** —
 mirroring how a Data/Business Analyst turns data into decisions.
-
-> **Why this project matters in an interview:** it shows you can do more than train a
-> model — you frame a business problem, explore the data, quantify the drivers in plain
-> language (*odds ratios*, not just coefficients), and translate the result into actions
-> a retention team can run with.
 
 ---
 
-## 📁 Project structure
+##  Project structure
 
 ```
 02-customer-churn-analysis/
@@ -29,17 +24,7 @@ mirroring how a Data/Business Analyst turns data into decisions.
 └── requirements.txt
 ```
 
-## ▶️ How to run
-
-```bash
-pip install -r requirements.txt
-python data/generate_churn_data.py   # creates data/telco_churn.csv
-python churn_analysis.py             # prints the analysis + writes figures/
-```
-
----
-
-## 🔎 What the analysis does
+## What the analysis does
 
 1. **Data-quality check** — row counts, missing values, duplicates, base churn rate.
 2. **EDA** — churn rate broken down by contract, internet service and payment method;
@@ -51,7 +36,7 @@ python churn_analysis.py             # prints the analysis + writes figures/
 
 ---
 
-## 📊 Headline results
+## Results
 
 **Model performance** — ROC-AUC **0.82**, recall on churners **0.78** (the metric that
 matters for retention: catching customers before they leave).
@@ -73,7 +58,7 @@ year of tenure.
 
 ---
 
-## 💡 Recommendations delivered
+## Recommendations
 
 1. **Migrate month-to-month customers to annual contracts** — the single strongest lever.
 2. **Protect the first 6 months** with onboarding and early check-ins.
@@ -81,5 +66,3 @@ year of tenure.
 4. **Revisit fiber pricing/value** — premium price, premium churn.
 5. **Nudge electronic-check payers** toward automatic payment methods.
 
-*Dataset is fully synthetic, generated from a transparent latent model with a fixed seed —
-no real customer data.*
