@@ -5,14 +5,9 @@ sales table. Excel appears in almost every Data/Business Analyst job description
 project shows the skill done *properly*: KPIs, summary tables and charts powered by **live
 Excel formulas**, not numbers pasted in from somewhere else.
 
-> **Why this project matters in an interview:** it proves you understand how Excel is used
-> on the job — a single source-of-truth data sheet, and a dashboard of **`SUM` / `SUMIF` /
-> `SUMIFS`** formulas plus native charts that **recalculate automatically** when the data
-> changes. The same modelling logic transfers straight to Power BI / Tableau measures.
-
 ---
 
-## 📁 What's in the workbook
+## What's in the workbook
 
 `Sales_Dashboard.xlsx` has two sheets:
 
@@ -32,7 +27,7 @@ Excel formulas**, not numbers pasted in from somewhere else.
 
 ---
 
-## 🔑 The key idea: it's dynamic
+## The key idea: it's dynamic
 
 Every dashboard number is an Excel formula, e.g.
 
@@ -48,24 +43,7 @@ Change any value on the **Data** sheet and the KPIs, tables and charts update by
 
 ---
 
-## ▶️ How to (re)build it
-
-```bash
-pip install openpyxl pandas numpy
-python build_dashboard.py        # regenerates Sales_Dashboard.xlsx
-```
-
-The script also prints a verification of the totals (Excel formulas vs a pandas
-ground-truth calculation) so you can confirm the numbers are right.
-
-> **Note:** the file is saved with *full recalculation on load*, so just **open it in Excel,
-> Numbers or Google Sheets** and all formulas/charts populate instantly. To show it on
-> GitHub, open the file and save a screenshot as `screenshot.png`, then add it here:
-> `![Dashboard](screenshot.png)`.
-
----
-
-## 📊 Example figures (this build)
+##  Example figures (this build)
 
 | KPI | Value |
 |-----|------:|
@@ -78,4 +56,4 @@ ground-truth calculation) so you can confirm the numbers are right.
 Technology drives the majority of revenue (~€191k), while Furniture's thin margin keeps
 overall profitability modest — the kind of insight the dashboard makes obvious at a glance.
 
-*Data is synthetic and seeded — fully reproducible.*
+*Data is synthetic and seeded*
